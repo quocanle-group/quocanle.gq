@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: List
+title: Danh sách
 ---
 
 **Năm 1**
