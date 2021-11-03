@@ -12,4 +12,4 @@ Nơi tổng hợp tất cả các chương của COTE.
 
 ### Contact me
 
-[email@domain.com](mailto:dangtruyen@quocanle.ml)
+[dangtruyen@quocanle.ml](mailto:dangtruyen@quocanle.ml)
