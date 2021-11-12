@@ -4,7 +4,9 @@ title: Y1 Vol 3 Ngoại truyện - Sakura| Những thứ nảy sinh
 permalink: /y1-vol3/ngoaitruyen2/
 ---
 
-**Ngoại truyện - Sakura: Những thứ nảy sinh**
+**[⏪]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen3/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -129,3 +131,7 @@ Nhưng--- Chúa ơi, làm ơn hãy cho con thêm.... những khoảnh khắc ấ
 Tôi không khỏi ước vậy.
 
 ![u22719-840d0287-ca60-4b79-be15-649a56862af3.jpg]({{ site.baseurl }}/images/cote/y1-vol3/image24.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen3/)**

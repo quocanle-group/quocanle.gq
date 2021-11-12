@@ -4,7 +4,9 @@ title: Y1 Vol 4 Ngoại truyện -- Karuizawa| Hiện diện vô hình
 permalink: /y1-vol4/ngoaitruyen1/
 ---
 
-**Ngoại truyện -- Karuizawa: Hiện diện vô hình**
+**[⏪]({{ site.baseurl }}/y1-vol4/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol4/ngoaitruyen2/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -69,3 +71,7 @@ Giờ nhìn lại thì đây là đầu tiên chỉ có Ayanojouji-kun và tôi.
 Trong ba năm học đường, cậu ấy sẽ trở thành một người quan trọng với tôi, đến mức không thể thay thế được. Nhưng lúc này tôi vẫn chưa biết điều đó.
 
 ![u22719-c061ec64-6d4b-40ae-b261-92075e03b9e6.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image25.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol4/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol4/ngoaitruyen2/)**

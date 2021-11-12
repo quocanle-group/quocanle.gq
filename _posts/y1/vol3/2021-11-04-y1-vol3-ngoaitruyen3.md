@@ -4,7 +4,9 @@ title: Y1 Vol 3 Ngoại truyện - Ichinose: Bài thi
 permalink: /y1-vol3/ngoaitruyen3/
 ---
 
-**Ngoại truyện - Ichinose: Bài thi**
+**[⏪]({{ site.baseurl }}/y1-vol3/ngoaitruyen2/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/loibat/)**
 
 **Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
 
@@ -99,3 +101,7 @@ Sau khi gật đầu ngưỡng mộ, tôi lại một lần nữa bình tĩnh xe
 "Ớ?"
 
 ![u22719-1f02a2d2-83c9-487e-80c5-0e10f464be4c.jpg]({{ site.baseurl }}/images/cote/y1-vol3/image25.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol3/ngoaitruyen2/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/loibat/)**

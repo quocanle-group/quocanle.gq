@@ -4,7 +4,7 @@ title: Y1 Vol 4 Minh họa
 permalink: /y1-vol4/minhhoa/
 ---
 
-**Minh họa**
+**[⏩]({{ site.baseurl }}/y1-vol4/modau/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -55,3 +55,5 @@ permalink: /y1-vol4/minhhoa/
 ![u22719-09b1623e-62be-4caf-95da-598b15d04fef.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image22.jpg)
 
 ![u22719-0a6a96a7-69c0-44dc-a23c-c5598087997f.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image23.jpg)
+
+**[⏩]({{ site.baseurl }}/y1-vol4/modau/)**

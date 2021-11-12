@@ -4,7 +4,9 @@ title: Y1 Vol 3 Chương kết| Vén màn
 permalink: /y1-vol3/chuongket/
 ---
 
-**Chương kết: Vén màn**
+**[⏪]({{ site.baseurl }}/y1-vol3/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -587,3 +589,7 @@ Chúng tôi bắt tay nhau.
 Tôi hành động vì chính tôi. Cậu hành động vì chính cậu. Là vậy đấy.
 
 Cuộc chiến thăng hạng từ nấc thang cuối cùng của chúng tôi chỉ mới bắt đầu thôi.
+
+**[⏪]({{ site.baseurl }}/y1-vol3/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen1/)**

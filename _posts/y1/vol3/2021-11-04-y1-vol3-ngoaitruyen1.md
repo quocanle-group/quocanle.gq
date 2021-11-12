@@ -4,7 +4,9 @@ title: Y1 Vol 3 Ngoại truyện - Kushida| Thời khắc quan trọng
 permalink: /y1-vol3/ngoaitruyen1/
 ---
 
-**Ngoại truyện - Kushida: Thời khắc quan trọng**
+**[⏪]({{ site.baseurl }}/y1-vol3/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen2/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -93,3 +95,7 @@ Chúng tôi dần dần tiến gần đảo.
 Quyết tâm mạnh mẽ -- của tôi cũng dần tiến đến sát.
 
 ![u22719-488d0884-66e9-451e-987f-dbaea83c0947.jpg]({{ site.baseurl }}/images/cote/y1-vol3/image23.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol3/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen2/)**

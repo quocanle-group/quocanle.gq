@@ -4,7 +4,7 @@ title: Y1 Vol 4 Ngoại truyện| Tai nạn giữa giấc mơ và hiện thực
 permalink: /y1-vol4/ngoaitruyen2/
 ---
 
-**Ngoại truyện: Tai nạn giữa giấc mơ và hiện thực**
+**[⏪]({{ site.baseurl }}/y1-vol4/ngoaitruyen1/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -89,3 +89,5 @@ Chắc chắn phải có lí do nào đó trong việc tôi không được đư
 Ayanokouji-kun ở phía trước rất có thể lắm chứ --
 
 ![u22719-3c15dc8f-542e-4c60-8ca4-4d912c8f4c82.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image26.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol4/ngoaitruyen1/)**
