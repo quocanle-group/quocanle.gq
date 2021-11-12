@@ -46,3 +46,38 @@ title: Danh sách
 [Vol 4]() 👈
 
 [Vol 4.5]() 👈
+
+
+
+
+**VOL 1**
+
+[Minh họa]() 👈
+
+[Mở đầu]() 👈
+
+[Chương 1]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Chương ]() 👈
+
+[Ngoại truyện]() 👈
+
+[Ngoại truyện]() 👈
