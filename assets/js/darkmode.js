@@ -1,7 +1,7 @@
-! function(e, t) {
+! function (e, t) {
     "object" == typeof exports && "object" == typeof module ? module.exports = t() : "function" == typeof define && define.amd ? define("darkmode-js", [], t) : "object" == typeof exports ? exports["darkmode-js"] = t() : e["darkmode-js"] = t()
-}("undefined" != typeof self ? self : this, (function() {
-    return function(e) {
+}("undefined" != typeof self ? self : this, (function () {
+    return function (e) {
         var t = {};
 
         function n(o) {
@@ -13,18 +13,18 @@
             };
             return e[o].call(r.exports, r, r.exports, n), r.l = !0, r.exports
         }
-        return n.m = e, n.c = t, n.d = function(e, t, o) {
+        return n.m = e, n.c = t, n.d = function (e, t, o) {
             n.o(e, t) || Object.defineProperty(e, t, {
                 enumerable: !0,
                 get: o
             })
-        }, n.r = function(e) {
+        }, n.r = function (e) {
             "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
                 value: "Module"
             }), Object.defineProperty(e, "__esModule", {
                 value: !0
             })
-        }, n.t = function(e, t) {
+        }, n.t = function (e, t) {
             if (1 & t && (e = n(e)), 8 & t) return e;
             if (4 & t && "object" == typeof e && e && e.__esModule) return e;
             var o = Object.create(null);
@@ -32,26 +32,26 @@
                     enumerable: !0,
                     value: e
                 }), 2 & t && "string" != typeof e)
-                for (var r in e) n.d(o, r, function(t) {
+                for (var r in e) n.d(o, r, function (t) {
                     return e[t]
                 }.bind(null, r));
             return o
-        }, n.n = function(e) {
-            var t = e && e.__esModule ? function() {
+        }, n.n = function (e) {
+            var t = e && e.__esModule ? function () {
                 return e.default
-            } : function() {
+            } : function () {
                 return e
             };
             return n.d(t, "a", t), t
-        }, n.o = function(e, t) {
+        }, n.o = function (e, t) {
             return Object.prototype.hasOwnProperty.call(e, t)
         }, n.p = "", n(n.s = 0)
-    }([function(e, t, n) {
+    }([function (e, t, n) {
         "use strict";
         Object.defineProperty(t, "__esModule", {
             value: !0
         }), t.default = void 0;
-        var o = function(e) {
+        var o = function (e) {
             if (e && e.__esModule) return e;
             var t = {};
             if (null != e)
@@ -62,10 +62,10 @@
                     } return t.default = e, t
         }(n(1));
         var r = o.default;
-        t.default = r, o.IS_BROWSER && function(e) {
+        t.default = r, o.IS_BROWSER && function (e) {
             e.Darkmode = o.default
         }(window), e.exports = t.default
-    }, function(e, t, n) {
+    }, function (e, t, n) {
         "use strict";
 
         function o(e, t) {
@@ -79,9 +79,9 @@
         }), t.default = t.IS_BROWSER = void 0;
         var r = "undefined" != typeof window;
         t.IS_BROWSER = r;
-        var a = function() {
+        var a = function () {
             function e(t) {
-                if (function(e, t) {
+                if (function (e, t) {
                         if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function")
                     }(this, e), r) {
                     t = Object.assign({}, {
@@ -111,23 +111,23 @@
             var t, n, a;
             return t = e, (n = [{
                 key: "addStyle",
-                value: function(e) {
+                value: function (e) {
                     var t = document.createElement("link");
                     t.setAttribute("rel", "stylesheet"), t.setAttribute("type", "text/css"), t.setAttribute("href", "data:text/css;charset=UTF-8," + encodeURIComponent(e)), document.head.appendChild(t)
                 }
             }, {
                 key: "showWidget",
-                value: function() {
+                value: function () {
                     var e = this;
                     if (r) {
                         var t = this.button,
                             n = this.layer,
                             o = 1e3 * parseFloat(this.time);
-                        t.classList.add("darkmode-toggle"), t.classList.remove("darkmode-toggle--inactive"), t.setAttribute("aria-label", "Activate dark mode"), t.setAttribute("aria-checked", "false"), t.setAttribute("role", "checkbox"), n.classList.add("darkmode-layer--button"), t.addEventListener("click", (function() {
+                        t.classList.add("darkmode-toggle"), t.classList.remove("darkmode-toggle--inactive"), t.setAttribute("aria-label", "Activate dark mode"), t.setAttribute("aria-checked", "false"), t.setAttribute("role", "checkbox"), n.classList.add("darkmode-layer--button"), t.addEventListener("click", (function () {
                             var r = e.isActivated();
-                            r ? (n.classList.remove("darkmode-layer--simple"), t.setAttribute("disabled", !0), setTimeout((function() {
+                            r ? (n.classList.remove("darkmode-layer--simple"), t.setAttribute("disabled", !0), setTimeout((function () {
                                 n.classList.remove("darkmode-layer--no-transition"), n.classList.remove("darkmode-layer--expanded"), t.removeAttribute("disabled")
-                            }), 1)) : (n.classList.add("darkmode-layer--expanded"), t.setAttribute("disabled", !0), setTimeout((function() {
+                            }), 1)) : (n.classList.add("darkmode-layer--expanded"), t.setAttribute("disabled", !0), setTimeout((function () {
                                 n.classList.add("darkmode-layer--no-transition"), n.classList.add("darkmode-layer--simple"), t.removeAttribute("disabled")
                             }), o)), t.classList.toggle("darkmode-toggle--white"), document.body.classList.toggle("darkmode--activated"), window.localStorage.setItem("darkmode", !r)
                         }))
@@ -135,7 +135,7 @@
                 }
             }, {
                 key: "toggle",
-                value: function() {
+                value: function () {
                     if (r) {
                         var e = this.layer,
                             t = this.isActivated(),
@@ -145,7 +145,7 @@
                 }
             }, {
                 key: "isActivated",
-                value: function() {
+                value: function () {
                     return r ? document.body.classList.contains("darkmode--activated") : null
                 }
             }]) && o(t.prototype, n), a && o(t, a), e
@@ -153,12 +153,13 @@
         t.default = a
     }])
 }));
+
 function addDarkmodeWidget() {
     new Darkmode({
         bottom: '32px',
         right: '32px',
         time: '1s',
         label: '🌓'
-      }).showWidget();
+    }).showWidget();
 }
 window.addEventListener('load', addDarkmodeWidget);
