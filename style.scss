@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $gray;
+	background: $white;
   font: 20px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $darkerGray;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $darkerGray;
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $darkerGray;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
   }
