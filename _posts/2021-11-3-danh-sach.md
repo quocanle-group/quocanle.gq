@@ -52,7 +52,7 @@ title: Danh sách
 
 **VOL 1**
 
-[Minh họa]({{ site.baseurl }}/y1-vol1/minhoa/) 👈
+[Minh họa]({{ site.baseurl }}/y1-vol1/minhhoa/) 👈
 
 [Mở đầu]({{ site.baseurl }}/y1-vol1/modau/) 👈
 
