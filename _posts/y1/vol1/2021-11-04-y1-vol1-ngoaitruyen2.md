@@ -4,6 +4,10 @@ title: Y1 Vol 1 Ngoại truyện -- Ayanokouji| Cặp đôi bất hảo
 permalink: /y1-vol1/ngoaitruyen2/
 ---
 
+**[⏪]({{ site.baseurl }}/y1-vol1/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen3/)**
+
 **Ngoại truyện -- Ayanokouji 2: Cặp đôi bất hảo**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
@@ -285,3 +289,7 @@ Có lẽ tôi là người đầu tiên chúng kiến cả hai người nở n�
 Sẽ rất tuyệt nếu một ngày nào đó cả hai người này có thể bắt tay nhau và có một mối quan hệ mà họ có thể hướng nụ cười của mình tới người kia một cách chân thành.
 
 Khi đang chìm đắm trong suy nghĩ đó, tôi tưởng tượng ra cuộc sống học đường sau này của mình.
+
+**[⏪]({{ site.baseurl }}/y1-vol1/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen3/)**

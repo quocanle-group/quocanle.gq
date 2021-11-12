@@ -4,6 +4,10 @@ title: Y1 Vol 1 Ngoại truyện -- Ayanokouji| Mục tiêu
 permalink: /y1-vol1/ngoaitruyen1/
 ---
 
+**[⏪]({{ site.baseurl }}/y1-vol1/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**
+
 **Ngoại truyện -- Ayanokouji: Mục tiêu**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
@@ -78,3 +82,6 @@ Có vẻ cô nàng hàng xóm kia không tin tưởng tôi lắm.
 
 Giáo viên tương lai đấy à? Bọn mình bằng tuổi mà nhỉ...
 
+**[⏪]({{ site.baseurl }}/y1-vol1/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**

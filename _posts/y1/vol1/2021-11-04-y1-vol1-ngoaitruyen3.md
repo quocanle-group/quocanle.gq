@@ -4,7 +4,7 @@ title: Y1 Vol 1 Ngoại truyện -- Ichinose| Một ngày thường thấy
 permalink: /y1-vol1/ngoaitruyen3/
 ---
 
-**[⏪]()**
+**[⏪]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**
 
 **Ngoại truyện -- Ichinose: Một ngày thường thấy**
 
@@ -293,3 +293,5 @@ Tôi chưa gặp Yamawaki-kun bao giờ.
 Tôi làm con trai sợ mình sao... thân con gái nghe vậy sao mà đau lòng quá.
 
 Buồn thay, tôi không thể vứt bỏ ý nghĩ này ra khỏi đầu, nó khiến tôi chẳng thể học hành đàng hoàng trong suốt bữa trưa.
+
+**[⏪]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**

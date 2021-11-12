@@ -4,6 +4,10 @@ title: Y1 Vol 1 Chương kết| Buổi tiệc mừng chiến thắng
 permalink: /y1-vol1/chuongket/
 ---
 
+**[⏪]({{ site.baseurl }}/y1-vol1/chuong10/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen1)**
+
 **Chương kết : Buổi tiệc mừng chiến thắng**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
@@ -211,3 +215,7 @@ Nếu là như vậy thì từ bây giờ tôi phải làm sao đây?
 Đành thuận theo tự nhiên mà nỗ lực thôi chứ biết sao giờ.
 
 Ít nhất thì... tôi hi vọng muốn được nhìn thấy Horikita cười, dù chỉ một lần.
+
+**[⏪]({{ site.baseurl }}/y1-vol1/chuong10/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen1)**
