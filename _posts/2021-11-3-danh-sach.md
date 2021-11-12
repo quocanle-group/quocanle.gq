@@ -5,79 +5,81 @@ title: Danh sách
 
 **Năm 1**
 
-[Vol 1]() 👈
+[Vol 1]({{ site.baseurl }}/) 👈
 
-[Vol 2]() 👈
+[Vol 2]({{ site.baseurl }}/) 👈
 
-[Vol 3]() 👈
+[Vol 3]({{ site.baseurl }}/) 👈
 
-[Vol 4]() 👈
+[Vol 4]({{ site.baseurl }}/) 👈
 
-[Vol 4.5]() 👈
+[Vol 4.5]({{ site.baseurl }}/) 👈
 
-[Vol 5]() 👈
+[Vol 5]({{ site.baseurl }}/) 👈
 
-[Vol 6]() 👈
+[Vol 6]({{ site.baseurl }}/) 👈
 
-[Vol 7]() 👈
+[Vol 7]({{ site.baseurl }}/) 👈
 
-[Vol 7.5]() 👈
+[Vol 7.5]({{ site.baseurl }}/) 👈
 
-[Vol 8]() 👈
+[Vol 8]({{ site.baseurl }}/) 👈
 
-[Vol 9]() 👈
+[Vol 9]({{ site.baseurl }}/) 👈
 
-[Vol 10]() 👈
+[Vol 10]({{ site.baseurl }}/) 👈
 
-[Vol 11]() 👈
+[Vol 11]({{ site.baseurl }}/) 👈
 
-[Vol 11.5]() 👈
+[Vol 11.5]({{ site.baseurl }}/) 👈
 
-[Vol 11.75]() 👈
+[Vol 11.75]({{ site.baseurl }}/) 👈
 
 **Năm 2**
 
-[Vol 1]() 👈
+[Vol 1]({{ site.baseurl }}/) 👈
 
-[Vol 2]() 👈
+[Vol 2]({{ site.baseurl }}/) 👈
 
-[Vol 3]() 👈
+[Vol 3]({{ site.baseurl }}/) 👈
 
-[Vol 4]() 👈
+[Vol 4]({{ site.baseurl }}/) 👈
 
-[Vol 4.5]() 👈
+[Vol 4.5]({{ site.baseurl }}/) 👈
 
 
 
 
 **VOL 1**
 
-[Minh họa]() 👈
+[Minh họa]({{ site.baseurl }}/y1-vol1/minhoa/) 👈
 
-[Mở đầu]() 👈
+[Mở đầu]({{ site.baseurl }}/y1-vol1/modau/) 👈
 
-[Chương 1]() 👈
+[Chương 1]({{ site.baseurl }}/y1-vol1/chuong1/) 👈
 
-[Chương ]() 👈
+[Chương 2]({{ site.baseurl }}/y1-vol1/chuong2/) 👈
 
-[Chương ]() 👈
+[Chương 3]({{ site.baseurl }}/y1-vol1/chuong3/) 👈
 
-[Chương ]() 👈
+[Chương 4]({{ site.baseurl }}/y1-vol1/chuong4/) 👈
 
-[Chương ]() 👈
+[Chương 5]({{ site.baseurl }}/y1-vol1/chuong5/) 👈
 
-[Chương ]() 👈
+[Chương 6]({{ site.baseurl }}/y1-vol1/chuong6/) 👈
 
-[Chương ]() 👈
+[Chương 7]({{ site.baseurl }}/y1-vol1/chuong7/) 👈
 
-[Chương ]() 👈
+[Chương 8]({{ site.baseurl }}/y1-vol1/chuong8/) 👈
 
-[Chương ]() 👈
+[Chương 9]({{ site.baseurl }}/y1-vol1/chuong9/) 👈
 
-[Chương ]() 👈
+[Chương 10]({{ site.baseurl }}/y1-vol1/chuong10/) 👈
 
-[Chương ]() 👈
+[Chương kết]({{ site.baseurl }}/y1-vol1/chuongket/) 👈
 
-[Ngoại truyện]() 👈
+[Ngoại truyện 1]({{ site.baseurl }}/y1-vol1/ngoaitruyen1/) 👈
 
-[Ngoại truyện]() 👈
+[Ngoại truyện 2]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/) 👈
+
+[Ngoại truyện 3]({{ site.baseurl }}/y1-vol1/ngoaitruyen3/) 👈

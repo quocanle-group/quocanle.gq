@@ -1,0 +1,1277 @@
+﻿---
+layout: post
+title: Y1 Vol 4 Chương kết| Sự khác biệt
+permalink: /y1-vol4/chuongket/
+---
+
+**Chương kết: Sự khác biệt**
+
+**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
+
+[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
+
+1\.
+
+Ngày cuối cùng của bài thi.
+
+Khác với lúc trên đảo, thời gian ở đây trôi nhanh hơn. Và 2 tiếng hằng ngày cứ thế kết thúc mà không thêm chút thu hoạch.
+
+Kế hoạch liên minh của Ryuuen và pháo đài của Katsuragi vẫn được tiến hành, và Ichinose Honami vẫn không có bất cứ chiến lược phản công nào.
+
+"Oái. Lại rút phải nó rồi! Mình chơi trò Old maid tệ thế nhỉ?"
+
+Ichinose vừa nói khi đang chia những lá bài trước mặt tôi.
+
+Ichinose lại gợi ý chơi bài ở ngày thứ 5. Dù đã nghi ngờ cách tiếp cận có vấn đề, nhưng bức tường lớp A quả thật kiên cố. Nên nhóm chơi bài vẫn cứ tiếp diễn.
+
+Manabe không còn đả động gì chứng tỏ bức ảnh đã có tác dụng.
+
+Và giờ họ chỉ đơn giản ngoan ngoãn né Karuizawa.
+
+Cô nàng cũng tin vào điều đó nên cứ cư xử tự nhiên như thường lệ.
+
+Từ góc độ Manabe, có lẽ đã đoán được kẻ bí ẩn là tôi hoặc Yukimura, người có mặt ở thời điểm ban đầu đó.
+
+Tôi đã thêm vào dòng chat là *nhận từ 1 người cùng lớp*, nhưng chỉ có 2 người chụp được thôi.
+
+Nên hẳn là còn 1 trường hợp có người đứng sau nữa. Nên Manabe cũng không manh động được. Miễn là khi chưa chắc chắn.
+
+Dẫu sao việc tìm ra kẻ đã chụp những tấm ảnh ấy cũng không có ích lợi gì.
+
+"Chúng ta cứ thế này liệu có ổn không?"
+
+Yukimira nói vậy khi đang ngồi cạnh tôi cùng với một biểu cảm u ám và chán nản.
+
+"Cậu đang u ám quá đấy, Yukimura-kun. Đây là nơi cậu nên chơi hết mình vào. Ván nữa. Ván nữa nào!"
+
+"Mình xin thôi vậy. Mình không thấy vậy chút nào. Quan trọng hơn, chuyện này có ổn không Ichinose-san? Kết thúc bài kiểm tra một cách như thế. Mình tưởng cậu là người sẽ dẫn dắt cả bọn cơ." Yukimura hỏi.
+
+Để đáp lại câu hỏi ấy, Ichinose, người trên tay còn đang giữ những lá bài, khựng lại một chút.
+
+"Thế thì tiện cho cậu quả ha, Yukimura-kun? Nếu muốn thắng thì nên tận dụng chính sức lực của cậu ấy."
+
+"...Mình hiểu rõ mà. Mình hiểu."
+
+Yukimura không muốn kéo hết trách nhiệm về phía cậu ta, và tôi cá là cậu ta cũng ý thức được việc đó. Mà dù biết là vậy, tôi chắc cậu ta vẫn muốn thay đổi cái bầu không khí tuyệt vọng này.
+
+Yukimura, người luôn dành được thứ hạng cao về mặt điểm số, sẽ là một người đáng trông cậy nhất nếu bài kiểm tra đơn giản chỉ hoàn toàn xét về năng lực lý thuyết.
+
+Nhưng chỉ vì học lực xuất sắc, không có nghĩa là giỏi khích lệ tinh thần. Việc có nhiều ý tưởng không đơn giản như thế. Có những thứ không thể cứ đơn giản giải quyết bằng phép tính hoặc phương trình được.
+
+Trải qua những ngày nghỉ hè với hai bài kiểm tra đặc biệt, ngay cả Horikita cũng bị ép phải đối mặt với sự bất lực của chính bản thân .
+
+Tôi tự hỏi trong tình huống bế tắc thế này, Ichinose và Machida liệu cũng cảm thấy sự tương tự.
+
+Tuy nhiên, *what doesn't kill you make you stronger*.
+
+(câu này thấy để eng hay hơn)
+
+2\.
+
+"Hôm nay là ngày cuối. Bên cậu thế nào rồi Ayanokouji-kun?"
+
+Tôi đang hội họp lần cuối với Horikita.
+
+Bầu trời u ám thật.
+
+Cuộc trò chuyện sẽ bị ghi lại trong chatlog. Để tránh điều đó, chúng tôi gặp thẳng mặt nhau luôn.
+
+"Không có gì đặc biệt bên phía của tớ cả. Có vẻ 'mục tiêu'sẽ an toàn. Thế còn cậu?"
+
+Tôi không trông đợi nhiều từ Horikita, nhưng mà... "Tôi sẽ chiến thắng." cô ấy chỉ trả lời ngắn gọn như vậy.
+
+"Vậy ra là cậu tìm thấy 'mục tiêu'rồi hả?"
+
+"Tôi không biết ai đang nghe lén chúng ta thế nên tôi chưa thể nói cho cậu chi tiết được, nhưng, tôi sẽ không bận tâm nếu cậu tin tôi. Mọi chuyện sẽ diễn ra êm đẹp."
+
+Tôi đã nghe Hirata có nói rằng mục tiêu nhóm (Thìn) là Kushida. Tất nhiên tôi chắc chắn Ryuuen và Kanzaki đã làm mọi thứ bằng sức mạnh của họ để tìm ra cô ấy.
+
+Nhưng có vẻ Horikita đã vượt biển an toàn.
+
+Nếu cô ấy tự tin như vậy, tôi chắc cũng không có gì phải lo lắng. Chỉ cần chờ 500,000 điểm lăn vào túi thôi.
+
+"Cậu có gì phải bàn không?"
+
+"Không. Cứ theo ý cậu."
+
+Cho dù có kể cho tôi về nhóm (Thìn), tôi cũng không thể làm gì nhiều để giúp được.
+
+"Vậy lúc cậu nói cậu cần phải nói với tôi về chuyện gì đó, chuyện đó là chuyện gì? Tôi muốn hành động càng cẩn trọng càng tốt."
+
+Cô ấy thận trọng trước sự tồn tại mang tên Ryuuen... có lẽ vậy. Tôi không cảm thấy lòng tốt từ thái độ ấy, nhưng nếu Horikita tự dưng lo cho tôi thì phiền phức lắm.
+
+"Cậu không thể cứ mãi lo lắng vụ Ryuuen được đâu."
+
+"Cách nói đó, lẽ nào cậu có kế hoạch rồi?"
+
+Trông có vẻ khá ngạc nhiên, vậy ra tôi không được kỳ vọng như thế.
+
+"Tớ vừa lôi kéo Hirata về phe chúng ta. Tớ tin rằng mình có thể xây dựng mối quan hệ hợp tác với cậu ấy trong tương lai."
+
+"Tôi thật sự chẳng muốn điều đó."
+
+"Không sao cả. Tớ không bắt cậu đích thân dính dáng. Tớ sẽ nhận nhiệm vụ nói chuyện với Hirata thế nên cứ theo bước đi của tớ."
+
+"... Tôi không thích vậy. Tôi không thích cậu hành động sau lưng tôi."
+
+Biết ngay mà.
+
+"Thì những lúc thảo luận, cậu không cần ép mình tham gia, vậy được chứ?"
+
+"Vậy... cũng được."
+
+Dù trông vẫn hơi không hài lòng.
+
+Và sự tồn tại của Hirata rất hữu dụng với lớp, sau khi chiêm ngưỡng tài lãnh đạo của cậu ta, Horikita chắc chắn cũng hiểu được điều đó.
+
+"Tính cả Hirata nữa, có một người tớ muốn giới thiệu với cậu. Hãy dành chút thời gian trước khi bài thi kết thúc."
+
+"Tôi vẫn không thích lắm. Đừng thêm nhiều người không cần thiết."
+
+"Hãy coi đây là ngoại lệ đi, dù sao cậu cũng lên tiền tuyến rồi. Ngoài ra, người đó chắc chắn có ích."
+
+"Tôi nghĩ mình hiểu được phần nào ... nhưng thế cũng được. Hãy hẹn gặp nhau ở đây khi bài thi kết thúc vậy."
+
+Sau khi hẹn nhau như vậy, tôi nhìn giờ trên điện thoại. Cuộc thảo luận sẽ đến trong 30 phút nữa.
+
+"Không biết sẽ có bao nhiêu tên phản bội nhỉ?"
+
+"Chịu. Nhưng nhóm (Sửu) đột ngột như thế, tiền lệ rồi sẽ có hậu lệ thôi. Tỉ lệ đạt kết quả 2 sẽ thấp lắm."
+
+"Đúng vậy. Tôi cũng nghĩ thế."
+
+Và trong một giây lát, Horikita ngoảnh mắt đi.
+
+Đây là cử chỉ vô thức của con người khi họ đang lo lắng về chuyện nào đó.
+
+"Có chuyện gì sao?"
+
+"Không có gì. Chỉ là, tôi cảm thấy cái cách bài thi này khai thác có gì đó không đúng. Nhưng tôi nhất định sẽ không thua."
+
+Càng nói càng lộ vẻ bất an. Nhưng giờ động viên cũng vô ích. Vậy nên tôi quyết định giữ im lặng.
+
+3\.
+
+Những thành viên của nhóm (Mão), chưa có dấu hiệu đột phá, tiến tới cuộc thảo luận thứ 6 và cũng là cuộc thảo luận cuối cùng.
+
+Vì muốn suy xét lại ý kiến của mình một cách bình tĩnh và hợp lí một chút, tôi quyết định phòng và hướng tới phòng thảo luận nhóm.
+
+Do vẫn còn khoảng 30 phút, nên chắc là chưa có ai đâu.
+
+Nhưng những mong đợi đó đã bị dập tắt bởi sự hiện diện của một người không ngờ....
+
+"...đến sớm thế cơ à?"
+
+Đó là dáng đang ngủ thiếp đi trên sàn của 1 cô gái.
+
+Dù vậy, không biết tại sao lớp váy kia lại kích thích trái tim nam nhân đến thế.
+
+Tệ quá, tệ quá.
+
+Trong tư thế nằm, đùi của Ichinose lộ rõ hơn và phần che đi của chiếc váy khiến nơi đó trở thành thiên đường bí ẩn nửa thoắt nửa hiện. Tâm trí tôi đang bị bào mòn và 2 mắt thì không rời khỏi đó được.
+
+Nếu có thằng nào ở đây mà không cảm thấy thế với Ichinose thì không là gay cũng lưỡng tính. Đây chắc chắn là bản năng đàn ông, không phải do tôi đâu.
+
+Dù tôi đang cố thanh minh, mắt của tôi vẫn cứ lia từ đùi đến hông, rồi đến mặt, sau đó là ngực, rồi lại về đùi.
+
+Sau khi cảm thấy thấy vọng vì bản năng, tôi bỗng bị lạc hướng bởi thứ ở phía sau đầu Ichinose. Cụ thể là cái điện thoại ấy.
+
+Sẽ là lượng thông tin rất lớn được ghi lại trong chiếc điện thoại kia. Và ngoài ra, có lẽ nó cũng cần Id hoặc mật khẩu nữa. Nhưng cũng có những trường hợp ngoại lệ vì *ghét phiền phức.*
+
+Nói cách khác, nếu thó được điện thoại của Ichinose bây giờ, thì việc xác nhận những thông tin cần biết và sẽ bao gồm những thông tin mật. Tình cờ trước đây tôi phát hiện ra Ichinose thuộc dạng *ghét phiền phức.*
+
+Nếu như không có gì thay đổi, tôi sẽ đi trước rất nhiều.
+
+Chậm rãi và thận trọng, tôi tiếp cận cô ấy.
+
+"...Uwuuuuuu."
+
+![u22719-c661d2e2-4300-4d9e-b5ee-dbf567ebaa8f.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image20.jpg)
+
+"Oái."
+
+Khi khoảng cách giữa hai đứa thu hẹp lại, có thể là do sự thay đổi trong không khí hoặc linh cảm ở hơi người, Ichinose bị đánh thức.
+
+Nhưng rồi cô ấy lập tức quay lại giấc ngủ.
+
+Có vẻ như là tôi đã xoay xở để không làm cô ấy tỉnh giấc. Tôi lại thu hẹp khoảng cách.
+
+"...nnn."
+
+Mình đang làm gì thế nhỉ. Cho dù có bào chữa là thu thập thông tin hoặc bất kì thứ gì đó tương tự, thì hành động của tôi đều không khác gì 1 tên biến thái cả.
+
+Và nếu như Ichinose tỉnh dậy thì sao? Cảm giác như đang lén ăn trái cấm vậy.
+
+Dù còn tận nửa tiếng, lỡ có ai đó cùng ý tưởng thì sao? Mình nên ngồi đợi mới phải.
+
+Nhưng mà sao phải cảm thấy tội lỗi nhỉ, mình nên cứ xử như bình thường. Từng bước một, tôi tiến lại gần Ichinose hơn.
+
+"...nnnn....munyumunyu."
+
+Việc này đúng là bất khả thi.
+
+Mỗi lần tôi có động thái gì, Ichinose đều có biểu hiện. Để kiểm tra giả thuyết này, tôi thử di chuyển chân của mình tại chỗ mà không di chuyển. Nếu Ichinose phản hồi, có thể cô ấy là một người ngủ nông. Tương truyền rằng những người ngủ nông thưởng rất cẩn trọng...
+
+....thật thảm hại.
+
+Sao mình phải lén la lén lút thế nhỉ? Nhưng lạ là cô ấy không hề nói mớ.
+
+Không nghi ngờ gì nữa, mình đúng là 1 thằng biến thái.
+
+Nhận ra sự ngu ngốc của mình, tôi từ bỏ việc lấy trộm điện thoại và tiếp tục giữ khoảng cách.
+
+Rồi chọn một chỗ cách xa Ichinose. 1 điểm tránh thấy được vườn địa đàng đầy mê hoặc kia.
+
+Và đồng thời cũng sẽ không tình cờ chạm mặt với cô ấy.
+
+Quan trọng hơn chính xác là Ichinose đã đến đây từ khi nào.
+
+Rồi, khoảng 20 phút trước khi cuộc thảo luận bắt đầu, một điệu nhạc dễ thương vang lên.
+
+Âm thanh đó đến từ điện thoại của Ichinose.
+
+"...nnnn."
+
+Trong khi vẫn còn đang nhắm mắt, cô ấy với tới chiếc điện thoại và tắt nó đi. Có vẻ như tiếng nhạc đến từ chuông báo thức.
+
+Trong khi vẫn còn đang trông ngái ngủ, Ichinose rướn người dậy và để ý đến sự hiện diện của người ngoài, là tôi, trong căn phòng.
+
+Tôi đang thắc mắc không biết sẽ làm gì nếu cô nàng biểu lộ 1 khuôn mặt ghê tởm về phía này, nhưng cô nàng thậm chí còn chẳng bận tâm nữa.
+
+"Ch\~ ào \~\~ buổi\~\~sáng Ayanokouji-kun. Xin lỗi, đồng hồ báo thức của tớ hẵn đã làm cậu giật mình. "
+
+"Không, Không đâu. Trông cậu hẳn đã có giấc mơ rất đẹp. "
+
+"Ahahaha, xin lỗi. Mình chỉ vô tình thiếp đi thôi. Cậu đến sớm thế, vẫn còn 20 phút nữa mà? "
+
+"Cậu cũng thế. Đến đây từ khi nào vậy?"
+
+"Khoảng 1 tiếng trước. Tớ muốn yên vị ở đây. Ở phòng ồn ào quá, bạn bè của tớ cứ ra vào lại suốt."
+
+Có vẻ như đây là nơi tốt nhất để cô ấy ngủ trưa.
+
+"Vả lại, mình cũng muốn tập trung lại những suy nghĩ của mình."
+
+Thay vì cảm thấy sảng khoái khi mới ngủ dậy, cô ấy trông như thể đã hiểu thấu được một điều.
+
+"Cậu đã đạt được kết quả nào chưa?"
+
+"Ít nhiều thì cũng có."
+
+Rồi vì một lí do nào đó, Ichinose bước qua chỗ tôi và ngồi xuống.
+
+Một căn phòng chỉ có hai người, và một khoảng cách cực kì hẹp.
+
+Tôi không thể giấu nổi sự lo lắng trong tình huống này nhưng có vẻ Ichinose chưa hề để ý.
+
+"Vì vẫn còn nhiều thời gian, cậu muốn trò chuyện chút không?"
+
+"Nếu cậu không phiền thì tớ cũng không có ý kiến. "
+
+"Nhất trí vậy nhé. Tớ có thứ muốn hỏi Ayanokouji-kun. Tớ đã hỏi tất cả bạn nam lớp B như Kanzaki-kun rồi, nhưng tớ vẫn chưa hỏi được ai ở các lớp khác nên tớ cứ băn khoăn mãi. Ayanokouji-kun, cậu có khao khát mạnh mẽ được thăng lên lớp A không? "
+
+Tôi đang thắc mắc cô ấy định hỏi gì, nhưng ngạc nhiên thay đó lại là một câu hỏi cực kì phổ biến.
+
+"Tất nhiên là tớ có từng nghĩ về chuyện đó. Không...thay vì khao khát vươn lên lớp A, đúng hơn là tớ *phải *nhắm đến lớp A mới phải. Nói thế chính xác hơn."
+
+"Nói cách khác...vì *phần thưởng* kia?"
+
+Trong trường này, học sinh được chia ra bốn lớp A đến D. Nhưng đặc quyền phần thưởng chỉ có ở lớp A. Điều đó được viết rất mơ hồ trong cuốn sổ nên cảm giác mọi thứ cứ như 1 trò lừa đảo vậy.
+
+"Thời buổi này để theo kịp cuộc sống và công việc sau khi tốt nghiệp khó lắm, cả phần tuyển dụng nữa."
+
+"Công nhận. Mình cũng không phản đối. Nhưng cậu có thấy đặt quá nhiều niềm tin vào hệ thống này cũng không ổn không? Dù sao 99,9% những lời họ nói cũng không đáng tin nữa."
+
+Cái 99,9% kia là ám chỉ *phần thưởng* mà nhà trường tô vẽ.
+
+Để ví dụ, nếu tôi muốn trở thành 1 cầu thủ bóng rổ, nhà trường sẽ thay tôi lo việc đó. Và với các mối quan hệ, có thể tôi sẽ được lên chơi chuyên nghiệp. Nhưng chỉ vì yêu thích không có nghĩa là tương lai cũng đảm bảo được.
+
+Những người phấn đấu để đạt giấc mơ thời thơ ấu chiếm 1 phần rất nhỏ. Theo thống kê, chỉ có 1/6 học sinh tiểu học thõa mãn được ước mơ thôi.
+
+Trông *lời chào hàng* khá hấp dẫn nhưng tiêu chuẩn xác nhận lại không rõ ràng.
+
+Trở thành cầu thủ bóng rổ không có nghĩa là thành siêu sao. Và trong giới chuyên nghiệp thì người chơi phải đến tận hàng ngàn người ấy.
+
+Nên chỉ yêu thích thôi thì không đủ, phải thường xuyên thắng để đạt tới ước mơ đó. Và cuối cùng, chỉ khoảng 100 người là thành công thôi.
+
+Nói cách khác, tỉ lệ là rất thấp. Trong bất kì trường hợp nào, đáp ứng được nguyện vọng cũng là điều rất khó khăn.
+
+Nhiều học sinh chỉ đơn giản lặp đi lặp lại cuộc sống nhàm chán ngày qua ngày trong khi luôn môm nói về giấc mơ 1 cách vô vọng. Muốn biến giấc mơ thành sự thật cần 1 nỗ lực và tài năng không hề nhỏ.
+
+"Nhưng...nhiều người cũng thành công mà. Hay cậu muốn nói là cậu không hứng thú?"
+
+"Không phải thế. Tớ cũng muốn tốt nghiệp ở lớp A. Và tớ cũng có ước mơ nữa."
+
+Tôi có thể thấy một cảm xúc mạnh mẽ, vững vàng trong đôi mắt ấy.
+
+"Hệ thống trường thì không có vấn đề, nhưng đó là khi tốt nghiệp ở lớp A thôi. Ngôi trường hoạt động theo cách phân lực thực tế, nếu không có tài năng, bất lực là tất yếu. Và quan trọng nhất, học sinh lại được phân lớp theo giá trị hiện tại. Và tớ với Ayanokouji-kun, chỉ có 1 trong hai đứng lại sau cùng thôi. À có khả năng cả 2 đứa đều rớt nữa."
+
+Nói cách khác, dù có ngồi đây như tri kỉ, đến cuối cùng, lại chỉ có 1 người mỉm cười. Người còn lại sẽ không được hưởng phần thưởng đó.
+
+"Cậu có nghe ngoại lệ chưa?"
+
+"Hửm? Cái vụ tích 20 triệu điểm ấy hả?"
+
+"Ừ. Hình như chưa có ai đạt được cả, nhưng phá vỡ giới hạn cũng khả thi chứ?"
+
+"Ừ ừ. Nếu tính luôn cả yếu tố đó, vẫn có khả năng cả 2 chúng ta cùng tốt nghiệp ở lớp A được."
+
+"Vấn đề là có tích được không, và có khả năng hệ thống được thiết lập để không bao giờ có người vượt quá 20 triệu được."
+
+Bài kiểm tra này cung cấp 1 lượng điểm khá lớn. Và mới chỉ có 2 bài như thế thôi.
+
+Và có khả năng sẽ không còn sự hào phóng thế này bao giờ nữa. Chưa tính tới là những hình phạt khác.
+
+"Tớ nghĩ cũng phải thôi. Tích được 1 nửa chỗ đó cũng đủ gây chú ý rồi."
+
+"Đúng vậy. Tài chính lớp tớ đang khá tệ. Dù Horikita cật lực gánh, số điểm từ lần trước vẫn không đáng là bao. Thậm chí có khả năng tiêu sạch sau bài này ấy chứ. Ichinose thì sao? Cậu chắc không thiếu thốn thế đâu nhỉ."
+
+"Ummm...Mình cũng không biết nữa. Mình không rõ lớp khác thế nào, nhưng mình cũng tiết kiệm lắm, thỉnh thoảng mới tiêu thôi. Lớp B cũng không thừa điểm thế đâu."
+
+Ichinose khá tự nhiên, không giống đang che giấu gì cả.
+
+"Ayanokouji-kun."
+
+"Hửm?"
+
+Trong khoảnh khắc tiếp theo, Ichinose đột nhiên rút ngắn khoảng cách giữa hai đứa lại và nhìn thẳng vào mặt tôi.
+
+"Có vẻ cậu thấy nó rồi nhỉ, lần đó ấy."
+
+Đôi mắt đẹp đẽ hút hồn ấy kề bên.
+
+Ichinose thông minh hơn tôi tưởng, cô ấy nhìn thấu được tôi rồi.
+
+"...xin lỗi. Tớ vô tình thấy. Chỉ có chút tò mò thôi."
+
+"Ahaha... mình không đổ lỗi cho cậu đâu. Dù sao nó cũng bất ngờ mà?"
+
+Mới học kì 1 thôi mà Ichinose đã sở hữu 1 lượng điểm khổng lồ rồi. Thậm chí không tiêu 1 đồng nào mỗi tháng tính từ đầu năm cũng không thể có ngần ấy được.
+
+"Đừng lo. Tớ chưa nói cho ai khác đâu. Cũng có khả năng là tớ nhìn nhầm nữa."
+
+Cho dù có dấn sâu vào, cũng không chút manh mối.
+
+"Cậu đã tìm ra được cách chiến thắng chưa?"
+
+"Umm...Mình nghĩ là mình đã tìm ra được một gợi ý."
+
+Tôi còn tưởng là Ichinose sẽ không thật lòng cơ. Cô nàng vô tư này. Có vẻ như nàng luôn hành động theo lẽ phải.
+
+"Vậy thì trận chiến này... sẽ trở thành một trận chiến giữa lớp A và lớp B rồi."
+
+"Mình không chắc nữa, kết quả mình nhắm đến\--"
+
+Nhưng trước khi kịp nói hết câu, những thành viên trong nhóm lần lượt xuất hiện.
+
+Những học sinh lớp A là những người đầu tiên, dù vậy, vẫn không một lời chào, họ chỉ đơn giản vào góc riêng.
+
+"Cái gì? Cậu đã đến rồi à Ayanokouji?"
+
+"Cùng với Ichinose-dono à. Chỉ có hai người. Các cậu đang lén lút gì thế?"
+
+Cả Yukimura lẫn Sotomura đều tấn công tôi tới tấp.
+
+Tôi không thấy sự lo lắng trên mặt họ. Trái lại, những học sinh lớp B trông có vẻ thoải mái.
+
+"Đây là lần cuối rồi? Cậu đã tìm ra gợi ý nào chưa?"
+
+Hamaguchi hỏi tôi sau khi sốt sắng chờ đợi buổi thảo luận trong im lặng nãy giờ.
+
+"Thật lòng thì, tớ không hề có manh mối nào. Chúng ta còn chưa thể tổ chức được một buổi đối thoại ra hồn mà."
+
+Dù nói thế, nhưng tôi đã thực hiện xong những chiến lược mà mình đã dự tính.
+
+Bằng cách dùng mail mà nhà trường đã gửi cho bọn tôi trong điện thoại, 'mục tiêu'đã được ngụy trang thành công. 'mục tiêu'của nhóm (Thìn) là Kushida, nhưng chuyện gì sẽ xảy ra nếu giả như, Kushida và Horikita tráo điện thoại. Khi nhìn vào đó, ai cũng sẽ nghi ngờ Horikita.
+
+Và nếu có một kẻ phản bội biết được chuyện này, bằng cách báo cáo 'mục tiêu'là tên của Horikita, họ sẽ sai làm và chiến thắng đến với chúng tôi bằng cách đó.
+
+"Chào buổi tối, hôm nay cùng hòa thuận với nhau nhé."
+
+Nói ngắn gọn như vậy, Ichinose tiếp tục giữ lập trường cũ và mỉm cười như thường lệ.
+
+Nhưng vẫn còn quá sớm, vì có trời mới biết những thành viên khác định làm điều gì.
+
+Ngoải ra, nếu như mọi người đều tập trung vào vấn đề trước mắt, việc ngụy trang 'mục tiêu' sẽ khó hơn rất nhiều.
+
+Tôi đã đang đợi cho Ichinose nói xong, nhưng rồi quyết định cắt ngang.
+
+"Nếu như mọi người cảm thấy được..."
+
+"Tớ-tôi có một điều muốn nói."
+
+Lạ thay, cả tôi và Hamaguchi đều mở miệng cùng một lúc.
+
+"Xin lỗi, cậu cứ nói trước đi Ayanokouji-kun."
+
+"Không... không sao đâu, cậu trước đi. Tớ nói sau cũng được."
+
+Tôi không hề dự đoán được sự trùng hợp này.
+
+Một sự trùng hợp tệ hại.
+
+Bản thân kế hoạch của tôi là hoàn hảo, nhưng nếu những chuyện bất ngờ như thế này xảy ra, hiệu quả của nó có thể sẽ thay đổi.
+
+Tôi đoán là mình có thể lắng nghe Hamaguchi trước trước khi canh thời gian cho bài phát biểu của mình và thử lại. Đáp lại suy nghĩ của tôi, Hamaguchi đập tan kì vọng của tôi theo một cách không ngờ được.
+
+"Vậy, với sự cho phép của cậu. Trong ba ngày qua, tôi đã liên tục suy nghĩ làm sao để đạt được kết quả đầu tiên một cách hiệu quả nhất."
+
+Rồi Hamaguchi bắt đầu nêu lên kế hoạch của mình cho những người còn lại của nhóm (Mão).
+
+Ngạc nhiên thay, nội dung lời đề nghị của cậu ta có nhiều điểm tương đồng với chiến lược của tôi.
+
+"Và cuối cùng tôi đã đi đến một kết luận duy nhất, đó là toàn thể nhóm có thể đạt được kết quả đầu tiên cùng nhau theo một cách."
+
+"Thật sao, Hamaguchi?"
+
+Trong đôi mắt chán nản của Yukimura và những người đã từ bỏ mọi hi vọng, một tia sáng đã quay trở lại.
+
+"Đương nhiên. Đó là một ý tưởng tôi đã nghĩ ra sau khi lắng nghe tất cả mọi người ở đây, bao gồm Ichinose-san và Machida-kun." Hamaguchi tiếp tục.
+
+"Nhảm nhí. Không có cách nào để đạt được kết quả đầu tiên chỉ thông qua hội thoại."
+
+Người đã phản bác lại đề nghị ngây thơ, mơ mộng này tất nhiên, là Machida-kun.
+
+"Hãy lắng nghe cậu ta trước đã. Hamaguchi-kun không phải loại người nói trước mà không suy nghĩ."
+
+Ichinose hỗ trợ cho Hamaguchi và tạo ra một môi trường thích hợp cho việc thảo luận.
+
+"Bây giờ tôi sẽ cho tất cả mọi người xem điện thoại của mình. Theo lẽ tự nhiên, có một tin nhắn được gửi đến bởi nhà trường. Tôi chắc là các cậu hiểu ý rồi. Bởi vì việc làm giả hay chỉnh sửa tin nhắn do nhà trường gửi đến bị nghiêm cấm, không có chuyện gian dối ở đây. Đó là lí do tại sao thật đơn giản, chỉ bằng cách cho xem tin nhắn của lẫn nhau, chúng ta có thể biết 'mục tiêu'."
+
+"Thật hồ đồ. Ai lại đi cho người khác xem tin nhắn của mình như vậy chứ? Chúng ta vẫn không biết chắc liệu có ai phản bội hay không ngay khi đưa mail ra, không ai làm theo đâu."
+
+Đáp lại kế hoạch mà ai cũng có thể nghĩ ra nhưng chẳng ai chịu làm theo này, theo lẽ tự nhiên thì Machida tỏ ra kinh ngạc.
+
+"Đúng thật, bởi vì biết rằng có khả năng bị phản bội, 'mục tiêu'sẽ không đưa tin nhắn trên điện thoại mình ra. Nhưng nhìn từ góc độ của những người không phải mục tiêu, chẳng có rủi ro gì khi cho xem tin nhắn cả. Bài kiểm tra sẽ sớm kết thúc thôi, nếu không làm ngay bây giờ, thì chiến thắng sẽ chỉ là mộng tưởng. Dù nguyên một lớp đoàn kết lại để bảo vệ cho mục tiêu. Qua cách này, vẫn có thể dồn 'mục tiêu'vào đường cùng được." Hamaguchi tiếp tục.
+
+"Kể cả nếu biết danh tính 'mục tiêu'hay lớp của hắn, vẫn xuống hố cả lũ nếu có kẻ phản bội. Vấn đề vẫn cứ ở đó. Hay cậu định chơi trò ai nhanh hơn?"
+
+Chiến thuật này có thể truy ra danh tính 'mục tiêu'thật. Nhưng cũng chỉ được nhiêu đó mà thôi. Suy cho cùng, không phải tất cả mọi người đều sẽ chơi đẹp.
+
+"Vậy thì xin hãy im lặng. Cũng chẳng sao nếu Machida-kun không hề tham gia."
+
+Hamaguchi nói thế khi từ chối chịu thua trước thái độ thiếu hợp tác của những người khác và chúng tôi thấy tin nhắn trên điện thoại cậu ấy.
+
+"Tôi đồng ý với ý kiến của Hamaguchi-kun. Tôi cũng sẽ cho mọi người xem tin nhắn của mình." - Beppu của lớp B cũng hùa theo.
+
+Có vẻ như đây không phải là một sự kiện riêng biệt, ngẫu nhiên mà thay vào đó, chắc chắn là nước cờ của Ichinose.
+
+Quá trình thì y hệt như những gì tôi đã dự định. Nhưng, tôi không biết là họ đã nghĩ xa đến đâu. Trái lại nếu họ nghĩ mọi người sẽ ngoan ngoãn nghe theo những lời đó thì thế có hơi dại dột\...
+
+"Mình cũng nghĩ đây cũng là một ý tưởng hay đấy. Mình cũng không phản đối cho mọi người xem điện thoại của mình."
+
+Ichinose lại mỉm cười như thể đã đồng ý với kế hoạch của Hamaguchi.
+
+Cùng với những người khác, Ichinose cũng với đến túi váy bên phải để lấy điện thoại ra.
+
+"Mình đã nghĩ về chuyện này từ lâu rồi nhưng, cuối cùng cũng hiểu ra khi nghe những lời của Hamaguchi-kun. Xin lỗi vì đã giấu chuyện này cho tới giờ..."
+
+Và với những lời đầy ẩn ý đó, Ichinose lôi điện thoại của mình ra.
+
+Tôi quyết định tấn công ngay trước khi cô ấy có cơ hội hoàn thành chiến thuật của mình.
+
+"Cậu nghiêm túc đấy à, Ichinose? Nếu như cậu sẽ cược vào chuyện đó, vậy thì tớ cũng chẳng ngại gì."
+
+Trước khi Ichinose kịp tiết lộ nội dung email của mình, tôi rút ra điện thoại của mình.
+
+Nhưng đây không hẳn là điện thoại của tôi, mà thực ra là cái mà tôi đã tráo với một người khác.
+
+"Ayanokouji-kun... cậu ổn với chuyện này chứ?"
+
+"Ừ. Sau khi nghe Hamaguchi, tớ nghĩ là không còn cách nào khác nữa. Bởi vì dở giao tiếp, điều duy nhất tớ có thể làm là cho mọi người xem sự thật, nên tớ sẽ làm thế."
+
+"Đợi đã Ayanokouji. Tôi phản đối. Làm gì có chuyện cái chiến thuật mù quáng này sẽ đem lại kết quả tốt đẹp."
+
+Yukimura cố gắng cản lại trong tuyệt vọng, nhưng tôi lờ đi và cho mọi người xem tin nhắn của mình.
+
+![u22719-2f413d6f-9eb0-4164-95c3-9864ee6fc5eb.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image21.jpg)
+
+Thế là tôi đã chứng minh được mình không phải là 'mục tiêu'.
+
+Và một lượng nước lớn đã tích tụ trên con đập vô hình này. Chỉ cần một cái lỗ đường kính 1cm mở ra, con đập chắc chắn sẽ sụp đổ và biến thành một dòng nước. Hành động này là để đục cái lỗ đó.
+
+"Hmm... trông có vẻ như Ayanokouji-kun cũng không phải là 'mục tiêu' rồi."
+
+Giờ thì ai sẽ tiếp tục đây? Từ trong cái đám đông mà vẫn đang cười nhạo kế hoạch của Hamaguchi.
+
+"Vậy thì tôi cũng sẽ cho mọi người xem."
+
+Một cô gái đồng thuận theo. Đó là người mà ít ai mong đợi nhất. Ibuki Mio.
+
+"Cậu điên à? Làm chuyện này chẳng được gì cả." Manabe là người phản đối hành động mạo hiểm của Ibuki.
+
+Nhưng những lời mà Ibuki dùng để phản bác lại đúng là có lí lẽ thuyết phục.
+
+"Những người mà chính bản thân họ không phải là 'mục tiêu', hay không ở cùng lớp không được lợi gì với việc tiếp tục úp úp mở mở cả. Lớp B cũng hiểu điều đó. Nếu chúng ta ngồi yên, thì sẽ không bao giờ bắt kịp được những lớp đứng trên. Đó là lí do mà họ đang cho họ xem điện thoại của mình. Và tôi cũng đồng quan điểm. Thế thôi."
+
+"Nhưng việc đó..."
+
+"Hay phải chăng cô là 'mục tiêu'?"
+
+Ibuki nói với Manaba, người đúng ra là đồng minh của mình, theo một cách thù địch.
+
+"K-không v-việc đó..."
+
+"Vậy thì chắc là cô cũng có thể đem nó ra, điện thoại của cô ấy."
+
+Theo một cách nào đó, lời nói của Ibuki có thể được xem như đang đe dọa chính đồng minh, nhưng ngay khi hiểu ra sự tình, Manabe và những người khác cũng đã đem điện thoại của mình ra.
+
+Cuộc săn lùng 'mục tiêu'đang được tiến hành. Karruizawa cũng lấy chiếc điện thoại có đính dây đeo của mình ra, và đưa nó ra trước mặt mọi người.
+
+"Karuizawa, cậu cũng đi theo Ayanokouji à? Cậu cũng sẽ nghe theo cái chiến thuật này à?"
+
+"Tôi chỉ đang làm điều này vì lợi ích bản thân thôi, bởi vì tôi cũng muốn điểm." Karuizawa đáp lại.
+
+Tin nhắn từ nhà trường nói là cô ấy cũng không phải 'mục tiêu'nốt. Karruizawa đã được xem như trong sạch.
+
+"...ehhh. Mình nên làm gì đây?" Sotomura lẩm bẩm.
+
+"Tự nghĩ đi, Sotomura. Việc kiểm tra này là tự nguyện, không phải bắt buộc đâu đấy."
+
+"Uuuu.... Chắc cứ làm đại đi cho rảnh nợ vậy."
+
+Trong tình huống mà hàng loạt học sinh đã cùng tham gia vào, Sotomura cũng đưa điện thoại mình ra, sau khi hiểu ra rằng không còn lựa chọn nào khác.
+
+Dẫu vậy, trước khi cậu có cơ hội, Yukimura đã nhanh chóng ngăn lại.
+
+"...cậu thật sự nghĩ đây là một nước đi đúng đắn sao?"
+
+"Từ nãy giờ rồi, tại sao cậu cứ chõ mũi vào thế? Phải chăng cậu chính là 'mục tiêu'?"
+
+Đáp lại Yukimura đang kịch liệt phản đối, Ibuki đánh trúng câu hỏi đó.
+
+Vào khoảnh khắc đó, mọi người có thể thấy biểu cảm của Yukimura cứng lại.
+
+"Uwa... nghiêm túc à?"
+
+"Không. Yukimura không phải là 'mục tiêu'. Dù sao thì trước đó tớ đã nghe thế."
+
+Tôi nhanh chóng tiếp lời giúp cậu ta.
+
+Nhưng tiếng cười phát ra từ một vài học sinh trong số đó.
+
+"Cậu thật sự mong bọn tôi tin lời của mình sao? Cậu ta có thể đang nói dối."
+
+Manabe nói thế trong khi nghi ngờ Yukimura như một sự thật hiển nhiên.
+
+Đúng vậy, tiếp tục phủ nhận rằng cậu ta không phải 'mục tiêu'sẽ càng làm dấy lên sự nghi ngờ về phía Yukimura. Chính bản thân cậu ta cũng biết điều đó. Nhưng tôi chưa thể động thủ ngay bây giờ được. Bởi vì Yukimura chính là\--
+
+"Vẫn quá sớm để kết luận. Bởi vì Yukimura-kun nói cũng có lí."
+
+Ichinose, người nãy giờ đang đứng xem những chuỗi sự kiện dần được hé mở, nói thế trong khi một lần nữa lấy điện thoại mình ra từ túi bên trái.
+
+"Tớ đã bị cuốn trôi theo mọi chuyện một chút, nhưng tớ cũng muốn đưa điện thoại của mình ra."
+
+Cô ấy nói thế trong khi một lần nữa chứng minh mình không phải là 'mục tiêu'cho cả nhóm.
+
+"Đợi đã, Ichinose. Vừa nãy cô có nói là có một chuyện muốn nói với bọn tôi. Cô nói là mình đã giữ kín việc đó từ trước đến nay?"
+
+Không quên được lời nói đó, Machida nhấn mạnh câu hỏi vào cô ấy.
+
+"Chuyện đó ấy hả? Chỉ là việc mình cũng đã có cùng ý kiến thôi, chả còn gì khác cả."
+
+"...cùng ý kiến?"
+
+"Tớ nói là cùng ý kiến, nhưng với tư cách lãnh đạo lớp B, tớ chỉ cảm thấy tiếc nuối khi bị đánh bại bởi Hamaguchi-kun."
+
+Mà nói gì thì nói, có vẻ như tất cả mọi người ngoài lớp A và Yukimura ra đã chứng minh được sự trong sạch của mình.
+
+"......"
+
+Những học sinh ở đây không đầu đất đến mức không hiểu được lí do đằng sau sự im lặng của Yukimura.
+
+Machida và những học sinh khác của lớp A, đã tiếp cận Yukimura và nhìn chằm chằm cậu ta.
+
+"....hiểu rồi. Tôi sẽ cho các cậu xem, chỉ cần cho xem là được chứ gì?"
+
+Không thể chịu nổi ánh mắt soi mói của mọi người đang nhắm thẳng vào mình nữa, Yukimura chịu thua và lấy điện thoại ra.
+
+"Nhưng trước khi tôi làm vậy, tôi muốn các người hứa với tôi một điều."
+
+"Hứa? Ý cậu là gì, Yukimura-kun?"
+
+"Rằng không ai ở đây sẽ phản bội. Tất cả mọi người ở đây. Đặc biệt là lớp A, tôi muốn các cậu lấy điện thoại ra và để chúng ở chỗ tôi có thể nhìn thấy. Không, tất cả mọi người luôn. Mọi người hãy để điện thoại ở chỗ mà tôi thấy được."
+
+Cậu ta đã nói thẳng mặt người đại diện của nhóm ở đây, Machida, nhưng Machida đáp lại bằng một giọng lạnh lẽo.
+
+"Tôi không hiểu mục đích của cậu. Ý cậu là gì?"
+
+"Lời sao ý vậy. Không hơn không kém."
+
+"Được rồi. Nếu chỉ cần đặt chúng ở đó."
+
+Tất cả những học sinh lớp A đến gần Yukimura và lấy điện thoại mình ra, đặt nó trước mặt cậu ta.
+
+Sau khi đã xác nhận việc đó, với không một chút nghi ngờ trên khuôn mặt, Yukimura bắt đầu hành động. Cậu ta lấy điện thoại ra khỏi túi và bật màn hình lên, nhập mật khẩu 6 kí tự và đăng nhập vào nó.
+
+Rồi cậu ta mở tin nhắn nhà trường gửi và nâng màn hình lên cho mọi người đều thấy.
+
+"...Xin lỗi vì đã nói dối cậu. Ayanokouji...."
+
+Yukimura xin lỗi khi mở tin nhắn từ nhà trường ra.
+
+Những người ngạc nhiên nhất sau khi thấy nội dung của mail đó là, tất nhiên, là những thành viên của lớp D.
+
+"Tôi là 'mục tiêu'..." Yukimura nói.
+
+Trên màn hình là một cái tin nhắn khác với cái được gửi đến mọi người khác.
+
+"C-cái Y-yukimura-dono là 'mục tiêu'sao?" Sotomura nhìn cậu ta với sự ngạc nhiên.
+
+Điều này cũng có nghĩa là chúng tôi đã thành công giải phóng 500,000 điểm đáng ra đã là của lớp D. Tuy nhiên, Yukimura này chính là người mà tôi đã bí mật tráo điện thoại.
+
+"Nếu như tôi biết mọi chuyện sẽ thành ra như thế này, tôi đã nói ngay từ ban đầu rồi."
+
+Karuizawa cũng trông có vẻ sốc từ tận tâm can và biểu lộ một cảm xúc khó chịu.
+
+Nhìn từ góc độ của hai người chưa bao giờ nghĩ Yukimura là 'mục tiêu', thì phản ứng đó cũng không lạ gì.
+
+Sau đó Machida đứng lên và nhìn cái tin nhắn trong điện thoại của Yukimura một lần nữa.
+
+"Có vẻ như đây là hàng thật. Tất cả những tin nhắn cá nhân khác cũng không nghi ngờ gì là của Yukimura."
+
+Machida nói thế sau khi kiểm tra cả những đoạn chat riêng tư của Yukimura mà không xin phép.
+
+Ichinose cố gắng giải thích tình hình một cách bình tĩnh với Machida người đang nghi ngờ.
+
+"Làm gì có chuyện nó là giả được. Dù sao đi nữa thì cậu biết những luật của nhà trường mà. Đối với những đoạn tin nhắn được gửi đến bởi nhà trường có liên quan đến bài kiểm tra, sao chép hay chuyển nó đi là hoàn toàn bị nghiêm cấm. Chỉ cần tin nhắn được gửi từ nhà trường, khả năng nó bị làm giả là không." Ichinose nói.
+
+Chính xác, ngay từ ban đầu, ngụy tạo thông tin trong bài kiểm tra này bị nghiêm cấm.
+
+Bởi vì hình phạt mang tên đuổi học đang chờ đợi những kẻ phá luật, những việc được đem ra ngoài ánh sáng sẽ chắc chắn là sự thật.
+
+Kể cả nếu một người vượt qua được chướng ngại bằng cách nói dối tại đây, vấn đề vẫn sẽ đang chờ đợi họ ở cuối bài kiểm tra.
+
+"Vậy thì chắc chắn là Yukimura-kun rồi."
+
+Manabe gật đầu đồng thuận.
+
+Điểu quan trọng ở đây là việc cái tin nhắn đó được gửi đến Yukimura được đưa ra. Cho dù người nắm giữ chiếc điện thoại đó có phải là chủ sở hữu thật hay không... điều đó không quan trọng. Nói cách khác, việc thắc mắc mà một người có thật sự sở hữu chiếc điện thoại hay không là một việc cực kì khó khăn.
+
+Đặc biệt là đối với những học sinh cảnh giác suốt bài kiểm tra, cái ý tưởng một người tráo điện thoại với người khác cũng không độc đáo. Dù vậy, nhập mật khẩu 6 kí tự và mở khóa điện thoại một cách bình thường trước mặt họ làm mọi thứ khác đi.
+
+Không đời nào mà một học sinh có thể biết mật khẩu của một học sinh khác. Họ chắc chắn sẽ giả định như thế trong vô thức bằng cách cho rằng chuyện cũng sẽ như thế nếu đó là điện thoại của họ. Mấu chốt của cách nghĩ này không nằm ở lí lẽ mà đã được cấy vào đầu họ qua nhiều năm.
+
+"Xin lỗi Yukimura-kun... tớ đã xem việc này như là một giải pháp cuối cùng...."
+
+"Không. Tôi nghĩ đây là điều đúng đắn nên làm. Tôi đã thử nói dối để vượt qua chuyện này, nhưng tôi sai rồi. Tôi chắc là Ayanokouji, Sotomura, và cả Karuizawa đều sẽ cảm thấy đây là cách thích hợp."
+
+Bằng cách nói thế, cậu ta làm mình trông như một tên đã cố gắng kiếm điểm cho riêng mình.
+
+"...thế này này mọi người sẽ biết 'mục tiêu'là tôi. Vì vậy chắc các cậu đều đã có đáp án rồi."
+
+Đúng vậy, bằng cách vượt qua bài kiểm tra cùng nhau, toàn thể nhóm có thể nhận được 500,000 điểm. Kết quả đầu tiên mà trông có vẻ như bất khả thi ban đầu bây giờ đang trong tầm với.
+
+Ichinose lại gật đầu một lần nữa một cách mạnh mẽ hơn, cô ấy nói với lớp A.
+
+"Làm ơn. Đừng lãng phí lòng dũng cảm của Yukimura-kun. Hãy hợp tác với bọn tớ, chứ xin đừng phản bội."
+
+"Ngay từ ban đầu thì bọn tôi chỉ làm theo lệnh của Katsuragi-san thôi. Bọn tôi sẽ không tự ý làm gì đâu."
+
+Machida đáp lại Ichinose.
+
+Cậu ta có nói thế, nhưng trước khi bài kiểm tra kết thúc, sẽ có một khoảng thời gian mà chúng tôi giải tán khỏi nhóm.
+
+Trước khi bài kiểm tra kết thúc, trong khoảng trống 30 phút đó, chúng ta phải tin tưởng vào không chỉ những bạn học cùng lớp, mà còn cả những học sinh lớp khác nữa.
+
+"Tôi muốn tin tưởng... không, tôi tin vào mọi người..." Yukimura nói như thể đang cầu nguyện.
+
+Và tất cả mọi lớp đều nghe được lời cầu nguyện đó. Tôi tự hỏi liệu những học sinh đã dành thời gian cùng nhau vài ngày qua đã thiết lập được một thứ gì đó như tình bạn chưa.
+
+Tôi tự hỏi liệu họ sẽ chấp nhận những cảm xúc của Yukimura, và có thể cùng nhau hợp tác đến chiến thắng. Không, chuyện như vậy là bất khả thi. Chắc chắn là với chuyện này, ai đó chắc chắn sẽ quay lưng làm phản.
+
+Và nếu thế, chúng tôi của lớp D, những người đã tráo điện thoại cho nhau nhất định sẽ thắng.
+
+Yukimura chắc là đã tin tưởng vào điều đó. Cậu ta chắc cũng chật vật lắm mới không phá lên cười.
+
+Dù vậy, sự thỏa mãn của cậu ta bốc hơi, khi chiếc điện thoại Yukimura đang cầm trên tay đột nhiên rung lên và vang âm thanh ra khắp phòng.
+
+Yukimura là người bị sốc hơn ai hết bởi cuộc gọi đến ấy. Trong cơn vội vã để lấy lại điện thoại khỏi cái bàn, cậu vấp ngã và chiếc điện thoại ấy vuột khỏi tay cậu ta.
+
+Bằng một sự trùng hợp ngẫu nhiên, với màn hình ngửa lên, nó rơi xuống ngay trước mặt chúng tôi. Vì đang được đặt ở chế độ im lặng, những rung động tiếp tục được lan qua cái bàn khi nó tiếp tục rung.
+
+Tên người gọi là---'Ichinose'.
+
+Cô ấy, trong khi đang để điện thoại của mình bên tai, nhìn Yukimura, rồi nhìn sang tôi với ánh mắt nghiêm túc.
+
+"Cậu đang làm gì vậy, Ichinose? Khi không tự nhiên lại gọi vào điện thoại của Yukimura."
+
+Machida nói thế trong khi nhìn Ichinose một cách ngạc nhiên.
+
+Sau khi tạo ra một tình huống mà chỉ có tôi với Yukimura hiểu được ý nghĩa, cô ấy nhanh chóng cúp máy.
+
+"Nhà trường đã nói là 'thay đổi hay sao chép tin nhắn' là bị nghiêm cấm. Đó là lí do chúng ta đã không nghi ngờ gì mà tin rằng đoạn mail trước mắt mình là thật. Nhiêu đó là chắc chắn. Nhưng không có luật nào cấm lừa người khác bằng chính cái điện thoại. Các cậu hiểu điều đó là gì không?"
+
+Ichinose nói thế trong khi nhặt cái điện thoại lên và không đưa nó cho Yukimura, mà cho tôi.
+
+"Người sở hữu chiếc điện thoại với đoạn tin nhắn chỉ đích danh 'mục tiêu' trên đó, là cậu phải không, Ayanokouji-kun? Bởi vì mới nãy, người tớ gọi không phải là Yukimura-kun, mà là cậu."
+
+Tôi đã trao đổi địa chỉ liên lạc với Ichinose hồi trước đó không lâu. Đó là lí do cô ấy biết số của tôi. Không, kể cả nếu không biết, cô ấy cũng sẽ đào cho bằng được.
+
+"N-nhưng chẳng phải việc đó hơi lạ sao? Yukimura đã có thể mở chiếc điện thoại ngay giữa thanh thiên bạch nhật. Tôi cũng đã kiểm tra tin nhắn cá nhân và lịch sử của cậu ta ngay trước mặt mọi người."
+
+"Là diễn đấy. Cậu ấy có thể dễ dàng biết được mật khẩu nếu hỏi Ayanokouji-kun trước. Đồng thời, tất cả lịch sử cuộc gọi, tin nhắn và kể cả ứng dụng có thể được sao chép kể cả nếu cần một chút nỗ lực."
+
+Sau khi nghe thấy thế, Machida thay đổi thái độ và nhanh chóng giật lấy cái điện thoại được đưa cho tôi.
+
+"Con người không thể nói dối dễ dàng vậy đâu. Đặc biệt là khi đích đến đang ở trước mắt, họ sẽ không tránh khỏi việc lo lắng và những sơ hở sẽ xuất hiện. Yukimura-kun đã nói dối, và đó là tại sao những cử chỉ và thái độ của cậu ấy khác so với mọi khi và trông rất đáng ngờ."
+
+Ichinose đã nhìn thấu được hoàn toàn lớp ngụy trang của tôi.
+
+Sau khi nghe cô ấy suy luận, Yukimura tái xanh mặt lại. Không, chắc gì cậu ta đã nghe hết đâu.
+
+"Bọn tớ cũng đã nghĩ về nó từ lâu rồi, nếu 'mục tiêu'ở trong lớp mình thì luôn có lựa chọn tráo điện thoại với họ. Dùng mật khẩu để đẩy danh tính 'mục tiêu'cho người khác cũng là một trong những điều mà bọn tớ nghĩ đến."
+
+Có vẻ như, chiến thuật của tôi đã được nghĩ đến trước đó bởi Ichinose và những người khác rồi.
+
+"Nhưng cậu thấy đấy, có một lỗ hỗng trong chiến thuật đó. Đó là sự tồn tại của số điện thoại. Kể cả nếu cậu có thể sao chép một cách hoàn hảo lịch sử và ứng dụng, cậu không thể làm gì với số điện thoại của mình. Một lần nọ, tớ và Hamaguchi-kun đã thử đổi thẻ SIM cho nhau, dù vậy, những thẻ SIM chúng ta được cung cấp đã bị gắn chặt vào máy chủ nên kể cả nếu đổi, nên cách đó cũng không thể dùng được. Có nghĩa là nếu cậu đã tráo thẻ, tớ đã không thể gọi cậu. Không quan trọng ai tráo điện thoại với ai, ngay khi tớ tìm ra được số liên lạc, có thể dễ dàng tìm ra chủ sở hữu thực sự. Nếu như không thể làm việc này, ngay từ đầu tớ đã không đề xuất việc đưa điện thoại của chúng ta ra."
+
+![u22719-38302d5e-0814-4660-add6-b6d4b526c24b.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image22.jpg)
+
+Nói cách khác, Ichinose và những người khác chỉ dùng loại chiến thuật gượng ép này khi cần nhìn thấu một lời dối trá. Sự thật là Hamaguchi đột nhiên khơi lên chủ đề này, theo lẽ tự nhiên cũng là một phần kế hoạch của họ. Vậy thì bây giờ là lúc mà sự thật tôi và Yukimura đã tráo điện thoại cho nhau được đem ra ánh sáng.
+
+"Chỉ đơn giản tráo điện thoại cho nhau và sao chép lịch sử đã trôi chảy cho đến giờ, nhưng chắc các cậu không ngờ được bọn tớ sẽ dùng việc những thẻ SIM được gắn vào máy chủ cá nhân để kiểm tra, phải không?"
+
+Phù \~ Rồi Ichinose thở ra sau khi nói một tràng dài.
+
+Ngay lúc đó, thông báo buổi thảo luận dài một giờ kết thúc vang lên.
+
+Chúng tôi được lệnh giải tán nhóm trong năm phút và nhanh chóng về phòng của mình.
+
+"Chết tiệt!"
+
+Tiếng hét đó phát ra từ sâu trong tim Yukimura. Đó là một tiếng hét thật lòng mà không hề mang ẩn ý gì.
+
+"Tệ quá, Yukimura à. Mà, có cố gắng đấy."
+
+Machida và những người khác nói trong khi cười nhếch mép và cười to.
+
+Họ nói thế để Yukimura, người đã bị nhìn thấu hoàn toàn, sẽ cảm thấy nhục nhã.
+
+Họ cũng liếc tôi một phát, người mà họ tin là chiến lược gia đứng sau chuyện này. Nhưng kể cả với Yukimura và lớp D đang lo lắng, và lớp C và A đang ngạc nhiên. Chắc có rất nhiều điều mà mọi người muốn thảo luận, nhưng luật lệ không cho phép chúng tôi nói nhiều hơn một chút nào nữa.
+
+"Nói gì thì nói, chúng ta đã xác định được Ayanokouji-kun là 'mục tiêu'. Machida-kun, hứa với mình là chúng ta sẽ cùng nhắm đến kết quả đầu tiên mà không phản bội bất kì ai."
+
+"Đương nhiên. Hãy tin vào tôi, đi thôi." Machida trả lời ngắn gọn.
+
+Được bạn họ gọi, ba học sinh lớp A là người đầu tiên rời phòng.
+
+"Cậu biết đấy. Mình sẽ không bao giờ phản bội mọi người. Đó là lí do tớ muốn lớp C cũng làm tương tự. Các cậu sẽ phải chịu đựng việc này trong 30 phút." Ichinose bảo lớp C.
+
+Manabe và những người khác chỉ đơn giản gật đầu đáp lại. Yukimura liếc nhìn chiếc điện thoại tôi đang cầm trong tay.
+
+"Tôi thật ngu ngốc khi nghe theo kế hoạch của cậu. Thật là tệ hại."
+
+Và rồi người này đến người khác, tất cả đều rời khỏi phòng, chỉ còn lại tôi và Ichinose.
+
+"Bây giờ chúng ta chỉ cần phải tin tưởng vào mọi người thôi."
+
+"Ừ.... Chắc thế."
+
+"Ayanokouji-kun, cậu khá bình tĩnh đấy. Cậu không lo lắng gì à?"
+
+"Dù sao tớ cũng không thể làm được việc gì khác ngoài tin tưởng... tớ về phòng đây."
+
+Có ở lại đây cũng chẳng được lợi lộc gì.
+
+"Này, đợi một chút đã."
+
+Ichinose đặt tay lên vai tôi và dừng tôi lại.
+
+Vào khoảnh khắc đó tôi cảm thấy rằng bầu không khí giữa hai người sẽ sớm trở nên căng thẳng thôi.
+
+"Ai là người nghĩ ra kế hoạch tráo điện thoại này thế?"
+
+"Tất nhiên là Horikita rồi."
+
+"Hiểu rồi. Vậy thì xin hãy nói với Horikita-san, kế hoạch của cậu ấy đã đại thành công."
+
+"Đại thành công? Không phải ý cậu là đại bại sao? Đó là một thất bại thảm hại. Dù sao thì Ichinose cũng đã nhìn thấu mọi thứ mà."
+
+"Ahahahaha. Cậu không dự đoán được là bọn tớ sẽ nghĩ ra một kế hoạch giống y hệt đúng chứ?"
+
+"Xin lỗi. Vì đã nói dối như thế, kể cả sau khi đã đồng ý thành lập liên minh với cậu. Cậu có giận tớ không?"
+
+"Đương nhiên là không. Bọn tớ cũng bắt đầu kế hoạch của mình mà cậu không biết, nên coi như là hòa."
+
+"Hiểu rồi. Mình chắc là Horikita sẽ nhẹ nhõm khi nghe vậy."
+
+Nói thế, tôi lấy điện thoại của mình và rời khỏi phòng.
+
+"Khoa, khoan khoan. Chưa hết phần quan trọng mà." Cô ấy lại ngăn tôi lại.
+
+"Phần quan trọng?"
+
+"Mồ\-\--Cậu dở giao tiếp thật đấy, Ayanokouji-kun. Đúng thật là những thẻ SIM chúng ta đã được đưa bị gắn chặt vào những máy chủ. Dẫu vậy, có một cách để gỡ... đúng chứ? Mình đã nhờ Hoshinomiya-sensei kiểm tra hộ, chỉ cần có đủ điểm là cậu có thể gỡ được cái khóa đó. Cô ấy đã nói vậy với mình."
+
+Lúc đó, tôi cảm thấy cứ như có một dòng điện chạy sau gáy mình.
+
+"Đáp án sẽ được tiết lộ sau khi một sự thật giả tạo được vén màn. Đa số người sẽ tin như thế. Sau khi Yukimura-kun, người đã gõ đúng mật khẩu để mở khóa điện thoại, hóa ra không phải là 'mục tiêu'. Giây phút lời dối trá đó được bại lộ, sự thật là Ayanokouji-kun là 'mục tiêu'đã được đem ra ánh sáng. Và chuyện về cái thẻ SIM đã chấm hết sự việc. Bây giờ không ai sẽ nghi ngờ người nào khác ngoài Ayanokouji-kun. Nhưng chính việc đó mới là một cái bẫy. Mình có nói chiến lược tráo điện thoại không hoàn hảo, nhưng đó chỉ là nói dối. Bởi vì chiến lược đó cực kì hiệu quả. Nhưng tất nhiên, cậu cần phải làm một cái bẫy kép. Nếu như cái bẫy này được kích hoạt, sự thật sẽ mãi mãi bị chôn vùi trong bóng tối. Sẽ không có cách nào khác để chắc chắn 100% ai là 'mục tiêu' được."
+
+Cô gái Ichinose này, cô ấy đã thấy được kế hoạch ẩn giấu đằng sau kế hoạch. Cô ấy đã nhận ra được sự thật mà tôi thậm chí đã giấu đi khỏi Yukimura.
+
+Trước tiên tôi không phải là 'mục tiêu'. Nhưng tôi đã tiếp cận Yukimura dưới tư cách 'mục tiêu'. Để làm bằng chứng, dù sao tôi cũng phải dùng điện thoại của 'mục tiêu'thật để hợp tác cậu ta.
+
+Nhưng 'mục tiêu' thực sự và chủ sở hữu của chiếc điện thoại đó là Karuizawa. Cô ấy đã che giấu chuyện đó rất tốt. Người duy nhất được biết chuyện này là Hirata.
+
+Hirata cũng đã giấu nhẹm sự thật đó khỏi tôi và Yukimura, người ban đầu ở cùng nhóm. Đó là lí do cậu ta giả vờ không biết gì khi nói chuyện về 'mục tiêu'.
+
+Nhưng sau khi khám phá ra quá khứ của Karuizawa và Hirata, cậu ta đã cho tôi biết . Và sau khi dùng Manabe để bắt nạt Karuizawa, tôi đã lợi dụng tình huống đó để tráo điện thoại.
+
+Đầu tiên tôi sao chép mail và lịch sử y như đã làm với Yukimura. Rồi mở khóa cái khóa thẻ SIM bằng cách dùng điểm. Quá trình này không hề bất chính và có thể được thực hiện dễ dàng tại một nhà bán sỉ như một dịch vụ miễn phí.
+
+Có thể đây là một con tàu, nhưng do bài kiểm tra này cần dùng điện thoại, một nơi đã được đặt để học sinh có thể sửa chữa hay thay thế điện thoại của mình đề phòng có hư hại gì đó. Đó là tại sao, khi đang dùng điện thoại của Karuizawa, tôi đã có thể chuyển số liên lạc qua luôn.
+
+Hơn nữa, từ giờ phút đó trở đi, tôi đã tráo điện thoại với Yukimura. Đương nhiên, tôi chỉ nói với cậu ta đó là điện thoại 'của tôi' và Yukimura đã tin. Nếu sự thật bị bại lộ, chắc chắn cậu ta sẽ nổi xùng lên nên hi vọng là mọi chuyện cứ thế mà lặng đi.
+
+Nếu là một người đơn giản, họ sẽ còn không để ý Yukimura và tôi đã tráo điện thoại cơ. Nhưng là một người thông minh, họ phải nghĩ tới kế hoạch này rồi. Nhưng họ có bao giờ ngờ rằng Karuizawa là 'mục tiêu'. Đó là kế hoạch tráo đổi điện thoại mà tôi đã nghĩ ra được.
+
+"Nếu lớp D không có 'mục tiêu', thì cậu sẽ làm gì?"
+
+"Như cậu thôi. Cố tìm ra ai là 'mục tiêu' thật trong các lớp, tráo điện thoại với họ, và rồi tự mạo danh chính mình."
+
+Nếu như 'mục tiêu' thật ló đầu lộ diện sau đó, cuộc tìm kiếm sẽ thành công, và nếu giả như thay vào đó họ tin rằng Ichinose là 'mục tiêu'thật, tên phản bội chắc chắn sẽ trả lời sai và bài kiểm tra sẽ kết thúc. Trong trường hợp đó, sẽ không có điểm nào cho lớp B và có thể giảm khoảng cách điểm số giữa một số lớp.
+
+"Vậy là ra rồi à?"
+
+Rồi Ichinose lấy những chiếc điện thoại ra khỏi túi trái và phải của mình.
+
+Một trong số chúng thuộc về 'mục tiêu'trong Lớp B ở một nhóm khác, một cái thì từ một học sinh không phải 'mục tiêu' từ một nhóm khác nữa.
+
+"À mà, đây chỉ là dự đoán thôi nhưng nếu tớ dựa trên diễn biến của cuộc đối thoại ngày hôm nay\-\-\--"
+
+Rồi Ichinose nhanh chóng viết một tin nhắn trên điện thoại của mình. "Danh tính của 'mục tiêu'là Karuizawa Kei-san. Đúng chứ?"
+
+Sau khi viết, cô ấy cho tôi xem điện thoại của mình.
+
+Đó là đoạn tin nhắn 'phản bội' cô ấy đang định gửi tới nhà trường. Nhưng trước khi bất cứ chuyện gì có thể xảy ra, điện thoại của tôi và Ichinose rung lên cùng một lúc.
+
+\[Bài kiểm tra của nhóm (Mão) đã kết thúc. Xin hãy đợi thông báo kết quả.\]
+
+"À... ai đó cuối cùng cũng đã phản bội rồi à? Chắc là lớp C hoặc lớp A thôi."
+
+"Sao cậu lại nghi ngờ Karuizawa?"
+
+"Cùng lí do với Yukimura-kun. Vì cô ấy cũng hành động khác thường so với mọi ngày. Thường thì cô ấy không quan tâm đến Ayanokouji-kun, nhưng dạo này cô ấy lại nhìn cậu khá nhiều, và biểu lộ cảm xúc đến cậu nhiều hơn cần thiết. Nhưng đó vẫn không phải là bằng chứng xác thực Karuizawa-san là 'mục tiêu', nên đằng nào mình cũng sẽ không gửi đoạn tin nhắn đó."
+
+Có vẻ như kế hoạch tôi đã dàn dựng nên, đã bị Ichinose nhìn thấu hoàn toàn.
+
+"Tại sao cậu không kể cho ai về điều đó?"
+
+Ichinose chỉ cười.
+
+Nụ cười của cô ấy bây giờ là nụ cười sâu thẳm và thật lòng nhất mà tôi từng được thấy.
+
+"Rõ ràng quá mà? A hay C chẳng được, miễn họ sai thì cả 2 cùng có lợi. Ngay từ đầu mình không định hoàn thành với kết quả đầu tiên. Giây phút mà 'mục tiêu'không có trong lớp B, tớ đã có ý định cố tình để một lớp khác phản bội. Tớ nghĩ kẻ phản bội lần này là từ lớp A."
+
+"Machida, à?"
+
+"Không, không. Đó là Morishige-kun. Cậu ta đến từ phái của Sakayanagi-san. Chắc là cậu ta không muốn ngoan ngoãn tuân lệnh Katsuragi đâu?"
+
+Trong khi cười một cách lạ lùng, cô ấy quay lưng lại với tôi.
+
+"Ayanokouji-kun, cậu tuyệt vời một cách bất ngờ đấy. Cuộc nói chuyện giữa mình và cậu mới nãy, hoàn toàn là tùy cơ ứng biến, đúng chứ?"
+
+"Nếu như khen thì khen Horikita ấy. Cô ấy chỉ đưa ra vài tình huống giả định và tớ chỉ làm theo thôi."
+
+Có vẻ như tôi sẽ cần phải đánh giá lại người mang tên Ichinose Honami. Cô ấy đã xoay sở để tránh nhận bất kì rủi ro nào và cùng lúc đó nghĩ ra một chiến thuật để chiến thắng. Tôi không ý kiến gì được nữa.
+
+"Vậy thì mình đi đây. Tụi mình phá luật thì sẽ không hay đâu."
+
+Nhưng trong khi Ichinose đang nói thế, điện thoại của chúng tôi vang lên một âm thanh đặc trưng cùng lúc. Và không chỉ một hay hai, mà là bốn lần liên tiếp trong một khoảng thời gian ngắn.
+
+"L-Là sao đây?"
+
+Ichinose trông có vẻ như bị sốc toàn tập, khi cả hai chúng tôi cùng nhìn vào màn hình điện thoại.
+
+4\.
+
+Con tàu lững lờ trôi trên mặt nước tối tăm gợi chút lẻ loi.
+
+Nhưng khi gần đến 11 giờ đêm, sự hiện diện của mọi người càng rõ rệt. Trước khi tôi kịp nhận ra, quán cà phê tôi chuẩn bị quay về bỗng trở nên tấp nập hơn và chỗ ngồi nhanh chóng kín hết bởi đoàn người nối tiếp nhau đi vào.
+
+Trước mặt tôi là cô gái đã đặt chỗ cho 4 người.
+
+"...xin lỗi vì đã để cậu phải đợi."
+
+Cô gái tiến lại một cách ngượng ngùng là Karuizawa Kei.
+
+Có nét gì đó khác thường trên khuôn mặt cô ấy.
+
+"Xin lỗi vì đã gọi cậu lúc khuya thế này." Tôi nói với cô ấy.
+
+"Không sao đâu...".
+
+Vì không có chủ đề gì đặc biệt để tán gẫu, tôi chỉ hướng mắt về quang cảnh nhuốm sắc tĩnh mịch. Nhưng vì Karuizawa có lẽ đang nhìn chằm chằm vào mình, tôi đành quay đầu nhìn lại.
+
+"À, ùm.. Tớ đang băn khoăn liệu mọi chuyện sẽ ổn không". Cô ấy hỏi
+
+"Không sao đâu. Tôi tin chắc là những tên Lớp A đã gửi tin nhắn có tên tôi tới nhà trường rồi."
+
+Tôi có thể nói được điều này vì bản thân đã chuẩn bị kế sách khác ngoài việc tráo điện thoại của Karuizawa và Yukimura. Chúng tôi đã lên kế hoạch trước là sẽ chắc chắn hợp tác với nhau, nên không có gì phải lo cả.
+
+"Sao cậu có thể chắc chắn như vậy được?"
+
+"Có phải bởi vì tờ giấy cậu đưa cho tớ có ẩn ý gì đúng không, Ayanokouji-kun?."
+
+Sự xuất hiện âm thầm từ phía sau tôi của người đó đủ để khiến Karuizawa nhảy cẫng lên.
+
+Không thể tránh khỏi được, vì đó là Hirata, người mà Karuizawa đang cố gắng chia tay.
+
+"Làm việc tốt lắm, cả hai người. Mình ngồi đây được không?"
+
+"Dĩ nhiên rồi."
+
+Karuizawa nhích người một cách không thoải mái và tránh nhìn Hirata, nhưng không tỏ ra dấu hiệu từ chối cậu ta một cách thẳng thừng.
+
+Giờ đã là 10:55 PM. Chỉ 5 phút nữa, tất cả học sinh sẽ nhận được tin nhắn.
+
+"Gần đến lúc rồi. Horikita-san chưa đến à? Chúng ta có nên gọi cậu ấy không?"
+
+"Cô ấy là người luôn xuất hiện phút chót mà. Bọn mình vẫn có thể đợi thêm 4 phút nữa."
+
+"À, cậu ấy đây rồi."
+
+Có vẻ ít nhất trong tình huống này, Horikita đến nhanh hơn tôi mong đợi.
+
+"Haa\~ Tôi chỉ có thể thở dài khi thấy cái hội này trước mặt mình."
+
+"Cậu cuối cùng cũng đến rồi nhỉ. Tiện thể, đằng sau cậu là?"
+
+"Để ý là thua đấy. Cứ xem như tôi bị ma ám đi."
+
+"Đừng nói thế chứ Horikita. Tớ lo cho cậu nên mới giúp cậu mà."
+
+Gần đây tôi không mấy khi nhìn thấy cậu ta, nhưng Sudou Ken đứng bên cạnh Horikita như thể dính chặt vào cô ấy vậy.
+
+"Cậu đang cản đường tôi đấy, biến đi."
+
+"Đ-Đừng nói vậy mà. Tớ đã cố gắng hết mình để vượt qua bài thi này đấy."
+
+"Vậy cậu có chắc rằng mình đã đạt được kết quả tốt không?".
+
+"...Chỉ còn một chút nữa thôi. Nhưng có vẻ đã có ai đó nhanh tay hơn."
+
+Sau khi nghe lởi bào chữa nửa vời của Sudou, Horikata dường như chẳng còn để ý tới cậu ta nữa.
+
+Hirikata ngồi vào chỗ trống còn lại. Sudou hoảng hốt và nhanh tay kéo một ghế từ cái bàn gần đó.
+
+"Cậu vẫn làm tôi chướng mắt."
+
+"Ổn mà, tớ chỉ nghe thôi. Mà cũng đừng xua đuổi tớ như vậy."
+
+Mặc cho đây là buổi gặp mặt khá lạ thường, Sudou có vẻ không hứng thú gì chuyện của chúng tôi cả.
+
+"Quan trọng hơn, chuỗi tin nhắn mà chúng ta nhận được trước đó..".
+
+"Ừ, mình cũng khá tò mò về chuyện đó."
+
+Sự việc xảy ra khoảng 2 tiếng trước khi tôi đang đi cùng với Ichinose.
+
+4 tin nhắn được gửi đến tới bọn tôi liên tục, kèm theo nội dung thông báo về việc kết thúc bài kiểm tra của vài nhóm.
+
+Bài thi các nhóm (Tí), (Ngọ), (Dậu) và (Hợi) đã kết thúc bởi sự xuất hiện của một kẻ phản bội.
+
+"Nhóm (Ngọ) là nhóm có 'mục tiêu'là Minami-kun, đúng không?
+
+"Đúng vậy. Nói cách khác thì danh tính cậu ta bị lộ".
+
+"Ở các nhóm khác, có người lớp ta không?"
+
+Nếu 'mục tiêu'phạm sai lầm thì hậu quả không phải là chuyện đùa được.
+
+"Mình đã dò hỏi rồi. Về phía đám con trai, không ai trong số họ là kẻ phản bội cả."
+
+Đương nhiên, cứ cho là họ không nói dối. Nhưng ở một mức độ nhất định tôi vẫn có thể tin họ.
+
+"Yamauchi sao rồi?"
+
+Tôi hỏi về người luôn sẵn sàng bùng nổ khi cần thiết
+
+"À, ừm. Không có gì. Yamauchi-kun ở bên nhóm (Dậu), và khi cậu chần chừ định gửi tin nhắn,bài kiểm tra đã kết thúc."
+
+"Dù là ai hay nhóm nào, phản bội mà không chắc chắn thì cũng rất ngu đấy."
+
+Horikita đã đoán rằng nếu Yamuchi là người gửi thì câu trả lời chắc chắn là sai. Tôi nghĩ cô ấy cũng có ý đúng. Mà dù sao Yamauchi cũng lỡ cơ hội rồi.
+
+"Nhưng chúng ta không biết bên nữ thế nào."
+
+"Không sao đâu, mình đã kiểm tra và không ai trong số họ gửi tin nhắn cả."
+
+Karuizawa trả lời Horikita không chút do dự. Vì cô ấy là thủ lĩnh đám con gái trong lớp D nên việc thu thập thông tin cũng nhanh chóng như Hirata vậy.
+
+"...Vậy à."
+
+Tất nhiên Horikita chỉ còn cách chấp nhận câu trả lời ấy.
+
+"Vậy cuối cùng, trong bài kiểm tra này, mình vẫn thắc mắc mắc tại sao chỉ có ít người làm theo chỉ dẫn vậy?"
+
+Hirata cứ lẩm bẩm câu hỏi đấy dù cậu ấy dù cậu ấy cũng không hiểu được ý nghĩa ẩn sau nó.
+
+"Bài kiểm tra này kiểm tra 'năng lực suy nghĩ' của chúng ta. Hay đúng hơn là cách chúng ta suy nghĩ. Không phải mọi câu hỏi đều có câu trả lời."
+
+Có thể tìm ra câu trả lời bằng cách nhìn thấu những lời lừa gạt vô nghĩa.
+
+"Quan trọng hơn, thứ tôi đang lo là các tin nhắn ấy được gửi đến gần như đồng loạt. Thời gian cho việc phản bội là 30 phút. Nhưng dù vậy, các lần phản bội đều diễn ra chỉ trong vòng 1 đến 2 phút đầu tiên liệu có bình thường không?"
+
+"Không phải đó...chỉ là một sự trùng hợp à?"
+
+Có vẻ từ góc nhìn của Sudou, người chỉ lắng nghe suốt cuộc trò chuyện của bọn tôi.
+
+"Khi Kouenji-kun gửi tin nhắn phản bội thì nhận được phản hồi từ nhà trường ngay tức thì. Chúng ta cứ cho là phản hồi ấy nhanh như tin nhắn trả lời tự động..."
+
+"Khả năng các tin nhắn ấy được gửi đi đồng loạt là rất cao. Nói cách khác, có thể chỉ một lớp đầu têu cho kế hoạch này."
+
+Tôi cũng nghĩ là không còn khả năng nào khác vì cả 4 tin nhắn được gửi vào cùng một thời điểm.
+
+"Rất có thể bọn họ đã canh thời điểm gửi để cho chúng ta biết kẻ chủ mưu là bọn họ."
+
+"Tôi cũng nghĩ là không còn lý do nào khác. Và chỉ có duy nhất một kẻ mới làm vậy..."
+
+Horikita và Hirata trao đổi với nhau như tự nhiên. Tôi sẽ rất biết ơn nếu việc này kết thúc mà tôi không phải nói gì thừa thãi.
+
+Và cũng có lý do để chúng tôi chọn quán cà phê quen thuộc này cho cuộc gặp mặt tối nay.
+
+"Đúng là các người đều ở đây."
+
+Đó là vì tôi có thể mời được tên đó, vị khách thứ sáu.
+
+"Ryuuen...!!!"
+
+Nhận thấy sự hiện diện của Ryuuen, Sudou đứng dậy như muốn dọa dẫm hắn nhưng Ryuuen không quan tâm và chỉ lấy một cái ghế và ngồi cạnh Horikita.
+
+"Tôi nghĩ là mình nên tới và tận hưởng kết quả cùng mấy người. Cảm ơn vì đã chọn một nơi dễ nói chuyện như thế này."
+
+"Ừ. Tôi chọn nơi này để đến cả một tên đần như cậu cũng có thể tìm thấy đấy. Cảm ơn tôi đi."
+
+"Nhưng dù vậy, Suzune. Cô hẹn hơi nhiều người đấy. Sao thay đổi đột ngột thế?"
+
+Ryuuen vừa nói vừa giương mắt nhìn bốn bọn tôi đang ngồi quanh, riêng Sudou thì bị lơ hoàn toàn.
+
+"Tôi mệt mỏi vì cái tính mè nheo của cậu rồi đấy. Tôi chỉ bàn bạc với họ về chuyện đó thôi."
+
+"Cấm có gây rắc rối cho Horikita!" Sudou gào vào mặt Ryuuen.
+
+"Im lặng đi Sudou-kun."
+
+".......ou...."
+
+Do bị Horikita ngăn lại, Sudou ngoan ngoãn ngồi xuống. Cậu ta thành thật một cách bất ngờ.
+
+"Tôi còn nghĩ cô chưa hề có người bạn tử tế nào cơ. Mà sao cũng được."
+
+Đây là một kế hoạch của tôi để đối phó với Ryuuen. Nhờ tăng số lượng người tương tác với Horikita, việc đánh lạc hướng sẽ trở nên hiệu quả. Và tất nhiên Ryuuen sẽ khó có thể dè chừng đến nhiều người như vậy.
+
+"Kết quả sẽ được sớm thông báo thôi. Cô có thu được gì không?"
+
+"Tương đối thôi. Cậu trông có vẻ thư thả nhỉ."
+
+"Kukuku. Nếu không thư thả thì sao tôi có thể vác mặt ra đây được. Mà có vẻ những kẻ lần trước cũng ở đây".
+
+"Ồ phải rồi. Lần trước trong lúc thông báo kết quả, sau khi tỏ ra mình bố đời hơn ai hết thì mày thua thảm hại."
+
+Sudou cười vào mặt Ryuuen sau khi nhớ ra điều gì đó và trỏ ngón tay về hắn ta.
+
+Như thể muốn đổ thêm dầu vào lửa, Horikita đưa mắt nhìn Ryuuen với một cảm giác ghê tởm.
+
+"Thôi ngay đi Suzune. Nếu cô tỏ ra như vậy bây giờ thì sẽ tự làm cho bản thân cảm thấy xấu hổ sau này đấy. Tôi đã biết được 'mục tiêu'của nhóm bọn mình rồi."
+
+Mặc cho những lời ấy có là sự thật hay không, Horikita chẳng mảy may rung chuyển. Có lẽ cô ấy tự tin rằng mình sẽ không bao giờ thua cuộc trước Ryuuen.
+
+"Thật vui khi được nghe vậy. Tôi khá mong đợi vào kết quả đấy."
+
+"Không cần chờ đến lúc đó. Tôi có thể nói cho cô luôn."
+
+"Thật đáng tiếc nhưng lúc này cậu trông như một kẻ thua cuộc vậy. Bài kiểm tra đã hết và không ai trong nhóm (Thìn) là kẻ phản bội cả. Nó chỉ có thể ám chỉ một điều."
+
+Việc đó ám chỉ Ryuuen đã hoàn thành bài kiểm tra mà không hề nhận ra Kushida là 'mục tiêu'. Đó là một sự thật không thể chối cãi.
+
+"Cô mà biết được sự tử tế của tôi thì cô biết ơn đến nỗi vãi cả ra quần luôn ấy chứ."
+
+Ryuuen bật cười như thể thích lắm với cách nói năng thô tục như vậy.
+
+"...vậy nói cho tôi biết. Ai là 'mục tiêu'trong nhóm (Thìn) đi?"
+
+Như thể đang chờ đợi câu hỏi của cô ấy, Ryuuen giơ tay cười phá lên.
+
+Hắn ta nhìn qua kẻ hở các ngón tay như đang ve vỡn con mồi vậy.
+
+"Kushida Kikyou."
+
+"Ế?"
+
+Horikita, người không hế có bất kì một phản ứng nào trước lời nói của Ryuuen, bỗng thốt ra một tiếng bất ngờ.
+
+Có lẽ vì cô ấy tin rằng hắn ta không thể vạch trần được danh tính của người mà cô ấy che dấu cho đến giờ.
+
+Và một người khác trong nhóm (Thìn) là Hirata cũng rất bất ngờ.
+
+"Xin lỗi nhá nhưng kể từ ngày thứ hai trong đợt kiểm tra tôi đã biết Kushida là 'mục tiêu' trong nhóm rồi."
+
+"Cậu đùa... đấy à? Nếu vậy cậu có thể đã kết thúc bài kiểm tra ngay lúc đó rồi. Nghĩa là cậu chỉ vừa mới biết gần đây thôi?"
+
+"Tôi muốn xem cái cách cô biểu diễn, rồi sau đó tuyệt vọng che giấu. Cũng thú vị lắm. Nên tôi cứ để cô như thế cho đến lúc cuối cùng."
+
+"Làm thế nào cậu phát hiện được?"
+
+Hirata hỏi lại Ryuuen với một giọng điệu kèm theo sự tò mò và sợ hãi.
+
+Mọi người đã cố gắng bảo vệ danh tính Kushida và cho đến giờ chưa có kẻ phản bội nào, nên việc họ tò mò là điều hiển nhiên.
+
+"Không may câu trả lời lại dính dáng đến cô đấy, Suzune."
+
+"Tôi ư?"
+
+Horikita bây giờ chắc hẳn đang dò xét lại những sự kiện trong đợt kiểm tra một cách tuyệt vọng, đồng thời cố gắng giữ vẻ mặt bình tĩnh. Cô ấy bị nhìn thấu khi nào, ở đâu và bằng cách nào.
+
+"Tôi nhận ra nhờ những chuyển động của đôi mắt, hơi thở, giọng nói và tất cả mọi thứ về cô đấy."
+
+"Bớt giỡn đi."
+
+"Đùa giỡn ư? Thế cô đã biết tôi tìm ra được sự thật bằng cách khác à?"
+
+"Chuyện đó... cậu chắc chắn vừa mới biết thôi."
+
+"Tôi hiểu cảm giác không muốn thừa nhận của cô mà. Ngoài mọi người trong nhóm ra, cô là kẻ vô tích sự nhất. Nhưng đừng tự trách bản thân mình như vậy Suzune. Cô chỉ là đã kiếm cớ gây sự với nhầm người thôi. Bài kiểm tra này hỗn độn theo cách của riêng nó. Đặc biệt là chuyện cô cực kỳ cảnh giác với lớp A ấy. Thư giãn đi."
+
+"C-Cậu nói cậu đã làm gì cơ?"
+
+"Cô sẽ sớm biết câu trả lời thôi."
+
+Giờ thì xem ra cả bốn tin nhắn phản bội ấy đều là trò của Ryuuen.
+
+Và đúng 11h, một tin nhắn được gửi tới điện thoại bọn tôi cùng một lúc.
+
+Không thèm ngó ngàng tới Ryuuen, tất cả bọn tôi đều dán mắt vào kết quả.
+
+5\.
+
+(Tý) \-\--\> Kẻ phản bội chỉ đúng.
+
+Kết quả 3.
+
+(Sửu) \-\--\> Kẻ phản bội chỉ sai.
+
+Kết quả 4.
+
+(Dần) \-\--\> Danh tính mục tiêu được bảo vệ
+
+Kết quả 2.
+
+(Mão) \-\--\> Kẻ phản bội chỉ sai.
+
+Kết quả 4.
+
+(Thìn) Cả nhóm chỉ đúng sau khi bài thi kết thúc.
+
+Kết quả 1.
+
+(Tỵ) \-\--\> Danh tính mục tiêu được bảo vệ.
+
+Kết quả 2.
+
+(Ngọ) \-\--\> Kẻ phản bội chỉ đúng.
+
+Kết quả 3.
+
+(Mùi) \-\--\> Danh tính mục tiêu được bảo vệ.
+
+Kết quả 2.
+
+(Thân) \-\--\> Kẻ phản bội chỉ đúng.
+
+(vậy mới thấy Kouneji giỏi cỡ nào...)
+
+Kết quả 3.
+
+(Dậu) \-\--\> Kẻ phản bội chỉ đúng.
+
+Kết quả 3.
+
+(Tuất) \-\--\> Danh tính mục tiêu được bảo vệ.
+
+Kết quả 2.
+
+(Hợi) \-\--\> Kẻ phản bội chỉ đúng.
+
+Kết quả 3.
+
+Và dựa trên kết quá đó, lượng tăng giảm điểm lớp và cả nhân sẽ ghi ở dưới. Trong trường hợp này, CL và PR lần lượt tương ứng với điểm lớp và điểm cá nhân nhận được.
+
+Lớp A -- Trừ 200 CL - Cộng 2 triệu PR.
+
+Lớp B -- CL không thay đổi - Cộng 2,5 triệu PR.
+
+Lớp C -- Cộng 150 CL -- Cộng 5.5 triệu PR.
+
+Lớp D -- Cộng 50 CL -- Cộng 3 triệu PR.
+
+"Lớp C... đứng đầu..."
+
+Horikita và những người khác có vẻ khá sốc trước kết quả.
+
+"Tuyệt không Suzune? Nhờ số đen của cô mà nhóm (Thìn) không ngờ lại có được kết quả 1. Giờ thì tất cả các lớp đều nhận được một lượng điểm khủng lồ."
+
+Ryuuen vỗ tay và cười hài lòng.
+
+"Nếu cô cúi cái đầu xuống trước tôi và cầu xin, tôi có thể sẽ cho cô câu trả lời."
+
+"Ai thèm?"
+
+Horikita đang định nói vậy, nhưng nhanh chóng ngậm chặt miệng lại.
+
+"Ô kìa. Biểu cảm của cưng, thật quyến rũ."
+
+Rồi Ryuuen rút điện thoại ra khỏi túi và đặt nó trên bản trước mặt chúng tôi để mọi người đều có thể thấy.
+
+Trên màn hình có vẻ là một danh sách Ryuuen đã tập hợp lại. Tý, Dậu, Hợi. Trong những nhóm đó có tên của những học sinh bị nghi ngờ là 'mục tiêu'từ Lớp A.
+
+"Tôi đã phát hiện ra chân tướng của kì thi này và đã lĩnh hội được nó. Rồi tôi chỉ tập trung nhắm vào những người Lớp A. Và đây là bằng chứng cho việc đó."
+
+Nói cách khác, nghĩa là Ryuuen chỉ nhắm tới Lớp A. Đáng lẽ khó có ai có thể thành công nhọc nhằn như vậy. Nhưng không thể phủ nhận được rằng Ryuuen đã làm được.
+
+"Và xin lỗi khi phải nói với cô điều này. Không may là mục tiêu kế tiếp của tôi là cô, Suzune. Trong bài thi tiếp theo, tôi chắc chắn sẽ chủ tâm nhắm vào cô. Tôi sẽ còn tiếp tục tới khi tôi hoàn toàn xé toạc tâm trí và trái tim của cô ra."
+
+Không có gì để đáp trả, Horikita chỉ nhìn chằm chằm vào kết quả trên tin nhắn.
+
+Có nghĩa là Lớp C giờ chiếm được thế thượng phong với các lớp khác, kiếm được một lượng điểm khủng lồ trong bài thi này.
+
+Giờ nghĩ lại, dù Kouenji lần đó đã làm không tốt, nhưng vẫn củng cố được một số điểm . Nói cách khác, đây là chiến thắng duy nhất của Lớp C.
+
+"Rất trông đợi vào học kỳ hai."
+
+Trả được mối nợ hồi bài thi trên đảo, Ryuuen có vẻ rất hài lòng khi rời đi. Và những học sinh, dù chiến thắng, trông thật rũ rượi.
+
+"Tớ có thể chấp nhận rằng Ryuuen-kun chỉ tập trung vào 'mục tiêu'Lớp A. Tớ chấp nhận được sự thật là cậu ta có tài. Nhưng làm thế nào để có được kết quả của nhóm (Thìn) vậy?"
+
+Việc đó cũng không phải gì khó.
+
+"Việc đó không khó vậy đâu. Nếu cậu để ý chút là đơn giản thôi."
+
+"Ý cậu là sao?"
+
+"Bỏ qua việc Ryuuen tìm ra danh tính lớp A đi. Tất cả những gì cậu ta cần làm là thông báo rằng Kushida là chân tướng. Tất nhiên không ai tin lời nói của một kẻ như Ryuuen. Đặc biệt là một nhóm toàn người xuất sắc. Nhưng khoảng thời gian cuối cùng thì lại khác. Vì trả lời sai cũng không sao nên là 1 người phòng thủ như Katsuragi cũng bị tâm lí động tay. Nếu có 1% kết quả là đúng thì kết quả 1 vẫn rất có lợi."
+
+Nếu đã gieo những hạt mầm thì chỉ cần đợi đâm hoa kết trái. Nhưng đây không phải chuyện cứ làm là được.
+
+Đây là một nhiệm vụ không thể thành công nếu mọi người không tin rằng đó đúng thật là Kushida.
+
+Liệu có khả dĩ hay không? Đến cả tôi cũng không thể tưởng tượng nó sẽ xảy ra như thế nào. Đây không thể gọi là chắc cú được.
+
+Bỏ Lớp D sang một bên, làm thế nào để dẫn cho mọi người đến kết quả 1 mà còn phải lấy được lòng tin từ họ? Trừ khi thực sự có 'bằng chứng xác thực'... có lẽ vậy.
+
+"Horikita. Chỉ là có lẽ nhưng\-\--chúng ta có lẽ sẽ gặp nhiều trở ngại lắm."
+
+Và không chỉ một hay hai lần, tùy theo tình cảnh, lớp D đã liên lụy rồi.
+
+"... trở ngại từ Ryuuen-kun? Đúng là cậu ta làm rất tốt trong bài thi này. Nhưng chưa chắc cậu ta có thể lặp lại chuyện này trong tương lai ngay cả khi lớp cậu ta vừa thắng, tôi nói có sai không?"
+
+"Phải rồi. Tớ chỉ nghĩ hơi quá. Đừng lo về chuyện đó nữa."
+
+Ngay bây giờ nó chưa là gì.
+
+Nhưng nhỡ điềm báo này thành sự thật? Cũng không thể bỏ qua được.
+
+Nhưng đồng thời, tôi cũng bắt đầu thấy 'phấn khích' đang len lỏi trong cơ thể của mình.
+
+![u22719-26e6ed74-3b3e-4908-a035-5b396db1384d.jpg]({{ site.baseurl }}/images/cote/y1-vol4/image23.jpg)
