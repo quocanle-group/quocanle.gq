@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Ngoại truyện - Sakura: Những thứ nảy sinh
+title: Y1 Vol 3 Ngoại truyện - Sakura| Những thứ nảy sinh
 permalink: /y1-vol3/ngoaitruyen2/
 ---
 

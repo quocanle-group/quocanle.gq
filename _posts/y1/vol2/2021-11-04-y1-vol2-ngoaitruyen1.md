@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 2
+title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Ôi, một trang thanh xuân
 permalink: /y1-vol2/ngoaitruyen1/
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Chương kết : Buổi tiệc mừng chiến thắng
+title: Y1 Vol 1 Chương kết| Buổi tiệc mừng chiến thắng
 permalink: /y1-vol1/chuongket/
 ---
 

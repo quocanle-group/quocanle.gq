@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 2
+title: Y1 Vol 2 Chương kết| Giải pháp duy nhất
 permalink: /y1-vol2/chuongket/
 ---
 

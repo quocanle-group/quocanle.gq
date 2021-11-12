@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: Y1 Vol 2
+title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Ảo tưởng phổ biến
 permalink: /y1-vol2/ngoaitruyen2/
 ---
 
-**Ngoại truyện -- Ayanokouji 2: Ảo tưởng phổ biến**
+**Ngoại truyện -- Ayanokouji: Ảo tưởng phổ biến**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Ngoại truyện -- Ayanokouji 2: Cặp đôi bất hảo
+title: Y1 Vol 1 Ngoại truyện -- Ayanokouji| Cặp đôi bất hảo
 permalink: /y1-vol1/ngoaitruyen2/
 ---
 

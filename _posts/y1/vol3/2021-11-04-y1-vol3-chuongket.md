@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Chương kết: Vén màn
+title: Y1 Vol 3 Chương kết| Vén màn
 permalink: /y1-vol3/chuongket/
 ---
 
