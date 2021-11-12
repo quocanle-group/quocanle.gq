@@ -4,7 +4,9 @@ title: Y1 Vol 2 Ngoại truyện -- Horikita| Dự đoán của Horikita
 permalink: /y1-vol2/ngoaitruyen4/
 ---
 
-**Ngoại truyện -- Horikita: Dự đoán của Horikita**
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen5/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 
@@ -181,3 +183,7 @@ Bằng cách bóp méo câu trả lời đó, con tim tôi có thể hạ nhiệ
 Tôi không cần bạn bè.
 
 -- Tôi của lúc đó thật sự nghĩ như vậy.
+
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen5/)**

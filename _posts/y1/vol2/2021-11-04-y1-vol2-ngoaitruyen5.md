@@ -3,8 +3,7 @@ layout: post
 title: Y1 Vol 2 Ngoại truyện - Sakura| Nơi cho riêng mình
 permalink: /y1-vol2/ngoaitruyen5/
 ---
-
-**Ngoại truyện - Sakura: Nơi cho riêng mình**
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
 
@@ -141,3 +140,5 @@ Tôi -- viết ra những mong ước.
 ![u22719-3b41335c-ba6f-4bbf-b96c-28f770c9e4cf.jpg]({{ site.baseurl }}/images/cote/y1-vol2/image24.jpeg){width="5.0in" height="7.013888888888889in"}
 
 Nghĩ cũng lạ, ảnh thì toàn chụp đồ lót với khiêu gợi, nhưng mong toàn là điều bổ ích cho tâm hồn. Thôi thì ăn gì bổ nấy, ăn tâm hồn bổ tâm hồn :)))
+
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**

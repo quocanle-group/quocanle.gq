@@ -4,7 +4,9 @@ title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Ảo tưởng phổ biến
 permalink: /y1-vol2/ngoaitruyen2/
 ---
 
-**Ngoại truyện -- Ayanokouji: Ảo tưởng phổ biến**
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 
@@ -69,3 +71,7 @@ Tôi cá rằng sẽ không phải là "mình đã quen với chuyện này rồ
 Nhưng quên vụ đó đi... bây giờ thì lưu cái ảnh này đã. Lưu tấm ảnh này thì đâu có tính là chuyện xấu.
 
 Và trong lúc Ike không để ý, tôi đặt tấm ảnh vào một thư mục.
+
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**

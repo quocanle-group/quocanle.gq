@@ -4,7 +4,9 @@ title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Ôi, một trang thanh xuân
 permalink: /y1-vol2/ngoaitruyen1/
 ---
 
-**Ngoại truyện -- Ayanokouji: Ôi, một trang thanh xuân**
+**[⏪]({{ site.baseurl }}/y1-vol2/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen2/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 
@@ -269,3 +271,7 @@ Hay là lúc tốt nghiệp? Thật khó để nói vào lúc này.
 Tuy vậy, ngày mà tôi có thể cảm nhận rõ ràng rằng những khoảnh khắc như thế này không thể thay thế và đáng quý biết nhường nào, chắc chắn sẽ đến thôi.
 
 Linh cảm này -- nảy lên từ sâu thẳm trong trái tim tôi.
+
+**[⏪]({{ site.baseurl }}/y1-vol2/chuongket/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen2/)**

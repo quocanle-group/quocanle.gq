@@ -4,7 +4,9 @@ title: Y1 Vol 2 Chương kết| Giải pháp duy nhất
 permalink: /y1-vol2/chuongket/
 ---
 
-**Chương kết: Giải pháp duy nhất**
+**[⏪]({{ site.baseurl }}/y1-vol2/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**
 
 **Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**
 
@@ -1025,3 +1027,7 @@ Tôi hiểu bản thân mình hơn ai hết. Tôi biết mình là người khi�
 Và tôi biết mình đáng sợ ra sao.
 
 ![u22719-ad89c835-879d-435c-9cc3-318489b2a420.jpg]({{ site.baseurl }}/images/cote/y1-vol2/image20.jpeg)
+
+**[⏪]({{ site.baseurl }}/y1-vol2/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**

@@ -4,7 +4,9 @@ title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Một trang tuổi trẻ
 permalink: /y1-vol2/ngoaitruyen3/
 ---
 
-**Ngoại truyện -- Ayanokouji: Một trang tuổi trẻ**
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen2/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**
 
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 
@@ -269,3 +271,7 @@ Tuy vây, cái ngày mà tôi có thể cảm nhận rõ ràng những khoảng 
 Linh cảm này -- nảy lên từ sâu thẳm trong trái tim tôi.
 
 (Chuyện diễn ra giữa vol 2 và 3. Khá tiếc là họ bỏ đi mọi lời thoại của Ichinose và 5 người đi cùng nhau, vì cảnh đấy đẹp vcl)
+
+**[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen2/)**
+
+**[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**
