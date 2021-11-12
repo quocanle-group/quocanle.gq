@@ -8,8 +8,6 @@ permalink: /y1-vol1/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**
 
-**Ngoại truyện -- Ayanokouji: Mục tiêu**
-
 **Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
 
 [**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
