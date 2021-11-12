@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import '{{ site.baseurl }}/assets/css/back2top.scss';
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans:400,700');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -287,39 +289,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-
-// --------------------------------
-//back2top
-@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans:400,700'); // custom font
-
-// --------------------------------
-
-// Back To Top - by CodyHouse.co
-
-// --------------------------------
-
-:root {
-  // colors
-  @include defineColorHSL(--cd-color-1, 53, 29%, 95%); // Alabaster
-  @include defineColorHSL(--cd-color-2, 330, 13%, 42%); // Falcon
-  @include defineColorHSL(--cd-color-3, 5, 76%, 62%); // Burnt Sienna
-
-  // back-to-top 
-  --cd-back-to-top-size: 40px;
-  --cd-back-to-top-margin: 20px;
-  
-  // font
-  --font-primary: 'Bitter', sans-serif;
-  --font-secondary: 'Open Sans', sans-serif; 
-}
-
-@supports(--css: variables) {
-  :root {
-    @include breakpoint(md) {
-      // back-to-top
-      --cd-back-to-top-size: 60px;
-      --cd-back-to-top-margin: 30px;
-    }
-  }
-}
