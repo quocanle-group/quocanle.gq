@@ -6,7 +6,7 @@
 name: Classroom of the Elite LightNovel Việt Nam
 
 # Short bio or description (displayed in the header)
-description: Nơi tổng hợp LN của COTE.
+description: Nơi tổng hợp LN COTE.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/COTE-logo.png
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: cote.ga
+url: https://cote.ga
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
