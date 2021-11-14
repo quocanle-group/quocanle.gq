@@ -1,0 +1,3 @@
+Allow: /
+
+Sitemap: http://cote.ga/sitemap.xml
