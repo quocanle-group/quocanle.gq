@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Ngoại truyện - Ichinose: Bài thi
+title: Y1 Vol 3 Ngoại truyện - Ichinose| Bài thi
 permalink: /y1-vol3/ngoaitruyen3/
 ---
 
