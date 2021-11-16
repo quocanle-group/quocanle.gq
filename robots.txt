@@ -1,8 +1,5 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
-Allow: /
+Disallow:
 
 Sitemap: http://cote.ga/sitemap.xml
 Sitemap: http://www.cote.ga/sitemap.xml
