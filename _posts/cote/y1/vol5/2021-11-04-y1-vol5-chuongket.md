@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 5 Chương kết| Khởi nguyên thời đại mới
+title: Y1 Vol 5 Chương kết | Khởi nguyên thời đại mới
 permalink: /y1-vol5/chuongket/
 ---
 

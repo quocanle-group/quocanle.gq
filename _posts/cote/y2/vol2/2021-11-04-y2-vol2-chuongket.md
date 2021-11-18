@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y2 Vol 2 Chương kết| Sự bình yên trước cơn bão
+title: Y2 Vol 2 Chương kết | Sự bình yên trước cơn bão
 permalink: /y2-vol2/chuongket/
 ---
 

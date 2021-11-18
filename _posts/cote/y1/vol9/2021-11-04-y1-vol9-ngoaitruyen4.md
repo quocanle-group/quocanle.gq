@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Kei| Ngày đặc biệt
+title: Y1 Vol 9 Ngoại truyện -- Kei | Ngày đặc biệt
 permalink: /y1-vol9/ngoaitruyen4/
 ---
 

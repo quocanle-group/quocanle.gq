@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Ngoại truyện -- Sakayanagi| Một khởi đầu khác
+title: Y1 Vol 11 Ngoại truyện -- Sakayanagi | Một khởi đầu khác
 permalink: /y1-vol11/ngoaitruyen1/
 ---
 

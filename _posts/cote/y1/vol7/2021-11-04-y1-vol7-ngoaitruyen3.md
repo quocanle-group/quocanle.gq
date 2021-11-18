@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện -- Hiyori| Mong rằng chúng tôi sẽ trở thành bạn của nhau
+title: Y1 Vol 7 Ngoại truyện -- Hiyori | Mong rằng chúng tôi sẽ trở thành bạn của nhau
 permalink: /y1-vol7/ngoaitruyen3/
 ---
 

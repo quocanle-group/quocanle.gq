@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Ichinose| Con tim mệt nhoài
+title: Y1 Vol 8 Ngoại truyện -- Ichinose | Con tim mệt nhoài
 permalink: /y1-vol8/ngoaitruyen1/
 ---
 

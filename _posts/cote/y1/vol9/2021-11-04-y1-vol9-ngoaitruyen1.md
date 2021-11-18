@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Arisu| Kế hoạch
+title: Y1 Vol 9 Ngoại truyện -- Arisu | Kế hoạch
 permalink: /y1-vol9/ngoaitruyen1/
 ---
 

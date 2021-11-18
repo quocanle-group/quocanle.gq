@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Ngoại truyện - Kushida| Một kẻ đáng sợ
+title: Y1 Vol 11 Ngoại truyện - Kushida | Một kẻ đáng sợ
 permalink: /y1-vol11/ngoaitruyen3/
 ---
 

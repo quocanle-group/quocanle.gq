@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Ngoại truyện -- Ayanokouji| Mục tiêu
+title: Y1 Vol 1 Ngoại truyện -- Ayanokouji | Mục tiêu
 permalink: /y1-vol1/ngoaitruyen1/
 ---
 

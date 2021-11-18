@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 3 Ngoại truyện - Kushida| Thời khắc quan trọng
+title: Y1 Vol 3 Ngoại truyện - Kushida | Thời khắc quan trọng
 permalink: /y1-vol3/ngoaitruyen1/
 ---
 

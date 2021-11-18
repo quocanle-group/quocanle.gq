@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Horikita| Người hàng xóm...
+title: Y1 Vol 10 Ngoại truyện -- Horikita | Người hàng xóm...
 permalink: /y1-vol10/ngoaitruyen4/
 ---
 

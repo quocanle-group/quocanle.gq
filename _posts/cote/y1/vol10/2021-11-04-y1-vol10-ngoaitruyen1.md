@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Ichinose| Rõ ràng là rất khó mà
+title: Y1 Vol 10 Ngoại truyện -- Ichinose | Rõ ràng là rất khó mà
 permalink: /y1-vol10/ngoaitruyen1/
 ---
 

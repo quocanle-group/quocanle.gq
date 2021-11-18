@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện - Chabashira| Bóng tối vô hình
+title: Y1 Vol 7 Ngoại truyện - Chabashira | Bóng tối vô hình
 permalink: /y1-vol7/ngoaitruyen1/
 ---
 

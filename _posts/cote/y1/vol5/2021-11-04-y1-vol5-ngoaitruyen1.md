@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 5 Ngoại truyện - Hội thao| Trận chiến của Ichinose
+title: Y1 Vol 5 Ngoại truyện - Hội thao | Trận chiến của Ichinose
 permalink: /y1-vol5/ngoaitruyen1/
 ---
 

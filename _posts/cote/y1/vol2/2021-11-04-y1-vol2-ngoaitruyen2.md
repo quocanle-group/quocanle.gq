@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Ảo tưởng phổ biến
+title: Y1 Vol 2 Ngoại truyện -- Ayanokouji | Ảo tưởng phổ biến
 permalink: /y1-vol2/ngoaitruyen2/
 ---
 

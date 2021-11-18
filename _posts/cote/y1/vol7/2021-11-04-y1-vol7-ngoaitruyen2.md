@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện - Hasebe| Tôi, Hasebe Haruka, không có ý định thay đổi
+title: Y1 Vol 7 Ngoại truyện - Hasebe | Tôi, Hasebe Haruka, không có ý định thay đổi
 permalink: /y1-vol7/ngoaitruyen2/
 ---
 

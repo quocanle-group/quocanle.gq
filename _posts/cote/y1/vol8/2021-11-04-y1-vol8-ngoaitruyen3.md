@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Kei| Gã cộng sự châm chọc
+title: Y1 Vol 8 Ngoại truyện -- Kei | Gã cộng sự châm chọc
 permalink: /y1-vol8/ngoaitruyen3/
 ---
 

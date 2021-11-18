@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện| Ngày thường của Sakayanagi Arisu - Phía sau bài thi cuối kỳ
+title: Y1 Vol 6 Ngoại truyện | Ngày thường của Sakayanagi Arisu - Phía sau bài thi cuối kỳ
 permalink: /y1-vol6/ngoaitruyen3/
 ---
 

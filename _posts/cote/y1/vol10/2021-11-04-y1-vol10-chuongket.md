@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Chương kết| Kẻ bị trục xuất
+title: Y1 Vol 10 Chương kết | Kẻ bị trục xuất
 permalink: /y1-vol10/chuongket/
 ---
 

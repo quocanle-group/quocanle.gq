@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Chương kết| Sự trở lại
+title: Y1 Vol 9 Chương kết | Sự trở lại
 permalink: /y1-vol9/chuongket/
 ---
 

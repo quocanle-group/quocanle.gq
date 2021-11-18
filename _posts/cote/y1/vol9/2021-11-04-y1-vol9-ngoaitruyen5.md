@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Ichinose| Món quà đầu tiên
+title: Y1 Vol 9 Ngoại truyện -- Ichinose | Món quà đầu tiên
 permalink: /y1-vol9/ngoaitruyen5/
 ---
 

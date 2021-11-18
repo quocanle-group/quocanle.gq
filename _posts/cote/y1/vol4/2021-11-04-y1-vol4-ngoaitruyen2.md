@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 4 Ngoại truyện| Tai nạn giữa giấc mơ và hiện thực
+title: Y1 Vol 4 Ngoại truyện | Tai nạn giữa giấc mơ và hiện thực
 permalink: /y1-vol4/ngoaitruyen2/
 ---
 

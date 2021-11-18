@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện - Haruka| Có lẽ tôi sẽ có vài người bạn
+title: Y1 Vol 6 Ngoại truyện - Haruka | Có lẽ tôi sẽ có vài người bạn
 permalink: /y1-vol6/ngoaitruyen1/
 ---
 

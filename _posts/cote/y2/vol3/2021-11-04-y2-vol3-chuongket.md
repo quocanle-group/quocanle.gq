@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y2 Vol 3 Chương kết| Mầm mống hiểm họa
+title: Y2 Vol 3 Chương kết | Mầm mống hiểm họa
 permalink: /y2-vol3/chuongket/
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Sakayanagi| Ngày hạ ấy
+title: Y1 Vol 8 Ngoại truyện -- Sakayanagi | Ngày hạ ấy
 permalink: /y1-vol8/ngoaitruyen5/
 ---
 

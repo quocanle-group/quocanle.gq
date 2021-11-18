@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 4 Ngoại truyện -- Karuizawa| Hiện diện vô hình
+title: Y1 Vol 4 Ngoại truyện -- Karuizawa | Hiện diện vô hình
 permalink: /y1-vol4/ngoaitruyen1/
 ---
 

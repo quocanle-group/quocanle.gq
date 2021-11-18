@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Ayanokouji| Sinh vật nhỏ bé
+title: Y1 Vol 9 Ngoại truyện -- Ayanokouji | Sinh vật nhỏ bé
 permalink: /y1-vol9/ngoaitruyen6/
 ---
 

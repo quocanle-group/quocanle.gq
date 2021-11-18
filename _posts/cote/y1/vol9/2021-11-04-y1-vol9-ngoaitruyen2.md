@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Mii-chan| Người bạn đáng tin?
+title: Y1 Vol 9 Ngoại truyện -- Mii-chan | Người bạn đáng tin?
 permalink: /y1-vol9/ngoaitruyen2/
 ---
 

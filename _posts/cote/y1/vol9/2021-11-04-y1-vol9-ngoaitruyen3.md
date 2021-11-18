@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 9 Ngoại truyện -- Masumi| Ý định thực sự
+title: Y1 Vol 9 Ngoại truyện -- Masumi | Ý định thực sự
 permalink: /y1-vol9/ngoaitruyen3/
 ---
 

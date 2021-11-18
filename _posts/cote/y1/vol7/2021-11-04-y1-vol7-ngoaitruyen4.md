@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện -- Sakura| Tôi, Sakura Airi, luôn bị quay như chong chóng
+title: Y1 Vol 7 Ngoại truyện -- Sakura | Tôi, Sakura Airi, luôn bị quay như chong chóng
 permalink: /y1-vol7/ngoaitruyen4/
 ---
 

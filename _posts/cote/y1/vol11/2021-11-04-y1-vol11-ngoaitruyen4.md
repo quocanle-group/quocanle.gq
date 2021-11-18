@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Ngoại truyện -- Sakayanagi 2| Thời khắc định mệnh
+title: Y1 Vol 11 Ngoại truyện -- Sakayanagi 2 | Thời khắc định mệnh
 permalink: /y1-vol11/ngoaitruyen4/
 ---
 

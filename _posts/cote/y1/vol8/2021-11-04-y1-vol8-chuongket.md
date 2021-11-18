@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Chương kết| Điểm mù
+title: Y1 Vol 8 Chương kết | Điểm mù
 permalink: /y1-vol8/chuongket/
 ---
 

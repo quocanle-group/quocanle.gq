@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Ngoại truyện -- Một ngày của Ibuki, Ishizaki, Albert và Shiina
+title: Y1 Vol 7 Ngoại truyện | Một ngày của Ibuki, Ishizaki, Albert và Shiina
 permalink: /y1-vol7/ngoaitruyen5/
 ---
 

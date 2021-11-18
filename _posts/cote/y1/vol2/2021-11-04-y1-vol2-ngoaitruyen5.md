@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Ngoại truyện - Sakura| Nơi cho riêng mình
+title: Y1 Vol 2 Ngoại truyện - Sakura | Nơi cho riêng mình
 permalink: /y1-vol2/ngoaitruyen5/
 ---
 **[⏪]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**

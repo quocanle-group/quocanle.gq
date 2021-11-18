@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Sakayanagi| Ý nghĩa thực sự
+title: Y1 Vol 8 Ngoại truyện -- Sakayanagi | Ý nghĩa thực sự
 permalink: /y1-vol8/ngoaitruyen2/
 ---
 

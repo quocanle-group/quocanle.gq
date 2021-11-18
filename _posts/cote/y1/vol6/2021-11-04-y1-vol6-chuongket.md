@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Chương kết| Những quyết định khác nhau
+title: Y1 Vol 6 Chương kết | Những quyết định khác nhau
 permalink: /y1-vol6/chuongket/
 ---
 

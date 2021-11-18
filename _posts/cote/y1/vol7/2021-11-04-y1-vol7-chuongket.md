@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 7 Chương kết| Những thứ Ryuuen được và mất
+title: Y1 Vol 7 Chương kết | Những thứ Ryuuen được và mất
 permalink: /y1-vol7/chuongket/
 ---
 

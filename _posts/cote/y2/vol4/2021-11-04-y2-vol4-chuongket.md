@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y2 Vol 4 Chương kết| Và kết quả cuối cùng...
+title: Y2 Vol 4 Chương kết | Và kết quả cuối cùng...
 permalink: /y2-vol4/chuongket/
 ---
 

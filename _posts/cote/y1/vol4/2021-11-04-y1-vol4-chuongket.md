@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 4 Chương kết| Sự khác biệt
+title: Y1 Vol 4 Chương kết | Sự khác biệt
 permalink: /y1-vol4/chuongket/
 ---
 

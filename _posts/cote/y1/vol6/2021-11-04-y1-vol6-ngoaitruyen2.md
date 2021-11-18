@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 6 Ngoại truyện - Sakura| Người tôi yêu
+title: Y1 Vol 6 Ngoại truyện - Sakura | Người tôi yêu
 permalink: /y1-vol6/ngoaitruyen2/
 ---
 

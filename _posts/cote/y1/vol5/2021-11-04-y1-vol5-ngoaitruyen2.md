@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 5 Ngoại truyện - Karuizawa| Tâm tư phức tạp của người thiếu nữ
+title: Y1 Vol 5 Ngoại truyện - Karuizawa | Tâm tư phức tạp của người thiếu nữ
 permalink: /y1-vol5/ngoaitruyen2/
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Ichinose 2| Rung động
+title: Y1 Vol 10 Ngoại truyện -- Ichinose 2 | Rung động
 permalink: /y1-vol10/ngoaitruyen3/
 ---
 

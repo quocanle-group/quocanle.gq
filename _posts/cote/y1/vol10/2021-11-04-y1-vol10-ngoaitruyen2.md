@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Ngoại truyện -- Sakayanagi| Lời hứa
+title: Y1 Vol 10 Ngoại truyện -- Sakayanagi | Lời hứa
 permalink: /y1-vol10/ngoaitruyen2/
 ---
 

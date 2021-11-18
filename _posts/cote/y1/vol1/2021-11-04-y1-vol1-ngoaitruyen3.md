@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Ngoại truyện -- Ichinose| Một ngày thường thấy
+title: Y1 Vol 1 Ngoại truyện -- Ichinose | Một ngày thường thấy
 permalink: /y1-vol1/ngoaitruyen3/
 ---
 

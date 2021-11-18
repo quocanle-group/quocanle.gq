@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 11 Chương kết| Ranh giới giữa chiến thắng và thua cuộc
+title: Y1 Vol 11 Chương kết | Ranh giới giữa chiến thắng và thua cuộc
 permalink: /y1-vol11/chuongket/
 ---
 

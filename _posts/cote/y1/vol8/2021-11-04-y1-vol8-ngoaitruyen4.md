@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 8 Ngoại truyện -- Nazuna| Cậu nhóc năm nhất đó
+title: Y1 Vol 8 Ngoại truyện -- Nazuna | Cậu nhóc năm nhất đó
 permalink: /y1-vol8/ngoaitruyen4/
 ---
 

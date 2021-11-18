@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 10 Lời bạt đầu Vol 10
+title: Y1 Vol 10 Lời bạt đầu
 permalink: /y1-vol10/loibatdau/
 ---
 

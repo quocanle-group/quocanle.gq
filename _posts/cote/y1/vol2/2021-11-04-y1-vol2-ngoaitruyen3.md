@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 2 Ngoại truyện -- Ayanokouji| Một trang tuổi trẻ
+title: Y1 Vol 2 Ngoại truyện -- Ayanokouji | Một trang tuổi trẻ
 permalink: /y1-vol2/ngoaitruyen3/
 ---
 
