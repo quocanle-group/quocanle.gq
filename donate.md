@@ -6,8 +6,6 @@ permalink: /donate/
 
 Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này.
 
-### Payment method
-
 **Viet Capital Bank**
 
 stk: 8017041010285
