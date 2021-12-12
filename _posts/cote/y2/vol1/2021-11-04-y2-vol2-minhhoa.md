@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Y1 Vol 1 Minh họa
+title: Y2 Vol 1 Minh họa
 permalink: /y2-vol1/minhhoa/
 ---
 
