@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
 
-Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này.
+Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này nhé.
 
 
 
