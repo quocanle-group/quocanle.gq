@@ -6,7 +6,7 @@ permalink: /donate/
 
 Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này nhé.
 
-
+  
 
 **Viet Capital Bank**
 
@@ -16,9 +16,9 @@ LE QUOC AN
 
 ![Viet Capital Bank donate]({{ site.baseurl }}/images/donate/vietcapital.png)
 
+  
 
-
-
+  
 
 **Momo**
 
@@ -26,9 +26,9 @@ sđt: 0904257035
 
 ![Momo donate]({{ site.baseurl }}/images/donate/momo.jpg)
 
+  
 
-
-
+  
 
 **Viettel Pay**
 
