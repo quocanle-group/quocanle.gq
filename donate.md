@@ -10,7 +10,7 @@ Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể ti�
 
 **Paypal**
 
-https://paypal.me/quocanle(https://paypal.me/quocanle)
+[https://paypal.me/quocanle](https://paypal.me/quocanle)
 
 -----------------------------------------------------------------
 
