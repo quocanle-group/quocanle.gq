@@ -8,10 +8,6 @@ permalink: /y1-vol11/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen4/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 "Này, cậu cho tớ chút thời gian được không?"
 
 Tôi đang trên đường về nhà thì một tiếng gọi vọng lại từ phía sau. Thậm chí không cần quay lại để đoán xem là ai. Cậu ta vẫn luôn theo đuôi cô gái, người đang có vấn đề của riêng mình.

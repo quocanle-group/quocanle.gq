@@ -8,10 +8,6 @@ permalink: /y1-vol8/ngoaitruyen4/
 
 **[⏩]({{ site.baseurl }}/y1-vol8/ngoaitruyen5/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Cuộc gặp gỡ này diễn ra khi tôi vừa quay trở lại nhà ăn sau khi đi vệ sinh.
 
 \"Hmm?\".

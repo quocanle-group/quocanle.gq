@@ -8,10 +8,6 @@ permalink: /y1-vol9/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen1/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Ngày thi cuối kỳ cuối cùng đã tới.
 
 Dựa trên bài thi thử, mỗi người đã lập ra vô số đối sách để nghênh đón bài thi ngày hôm nay.

@@ -8,10 +8,6 @@ permalink: /y1-vol7/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Ayanokouji đã gặp mặt cha của cậu ta.
 
 Tôi đang bước đi trên hành lang, đồng thời trái tim tôi đang cố gắng chịu đựng một cách thận trọng.

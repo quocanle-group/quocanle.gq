@@ -8,10 +8,6 @@ permalink: /y1-vol9/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Hôm nay là ngày 7 tháng Hai. Đây là câu chuyện khi tôi còn đang chơi đùa với món đồ chơi mang tên Ichinose-san. Đó là thời gian sau giờ học khi lớp đã kết thúc, tôi lặng lẽ đứng dậy với cây gậy đáng tin của mình. Trong trường hợp của tôi, tôi luôn thu hút sự chú ý khi đi lại vì cây gậy này. Không thể hành động lén lúc được đôi khi cũng là một hạn chế.
 
 "Hôm nay cậu ổn chứ?"

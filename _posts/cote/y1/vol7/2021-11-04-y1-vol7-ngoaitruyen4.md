@@ -8,10 +8,6 @@ permalink: /y1-vol7/ngoaitruyen4/
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen5/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 \"R-Ra là thế. Vậy là cậu không hẹn hò hay gì cả.\"
 
 Hahaha, hay quá...!

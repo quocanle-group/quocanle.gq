@@ -6,10 +6,6 @@ permalink: /y1-vol8/minhhoa/
 
 **[⏩]({{ site.baseurl }}/y1-vol8/modau/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 ![u22719-6fb373cc-1538-45c6-81e8-5dbe1bf9d7b7.jpg]({{ site.baseurl }}/images/cote/y1-vol8/image1.jpg)
 
 ![u22719-7f4b2bdb-6ca0-4dab-a813-7d87fbf20aec.jpg]({{ site.baseurl }}/images/cote/y1-vol8/image2.jpg)

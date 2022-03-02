@@ -8,10 +8,6 @@ permalink: /y1-vol9/ngoaitruyen5/
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen6/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Tôi bí mật đến trung tâm mua sắm Keyaki lúc nó sắp đóng cửa vào đêm đó.
 
 "Ừmm... Loại nào thì phổ biến nhỉ..."

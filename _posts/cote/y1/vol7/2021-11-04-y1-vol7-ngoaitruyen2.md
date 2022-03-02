@@ -8,10 +8,6 @@ permalink: /y1-vol7/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen3/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Sau giờ học, nhiệt độ đang dần lắng xuống. Nhóm Ayanokouji tụ tập trước lối vào khu mua sắm Keyaki như thường lệ.
 
 Tôi nhanh chóng ngắt cuộc trò chuyện với Miyacchi và tiếp cận Kiyopon.

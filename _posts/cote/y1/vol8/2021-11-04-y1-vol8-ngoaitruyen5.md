@@ -8,10 +8,6 @@ permalink: /y1-vol8/ngoaitruyen5/
 
 **[⏩]({{ site.baseurl }}/y1-vol8/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Chớm tháng Hai, vừa khi cảm nhận được hơi thở của mùa xuân. Tôi cầm một lon cà phê ấm trên tay. Chiếc lon lại khá nóng, nên tôi lấy khăn tay của mình ra quấn quanh lon.
 
 \"Này, tôi muốn hỏi thẳng.\"

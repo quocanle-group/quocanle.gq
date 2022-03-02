@@ -8,10 +8,6 @@ permalink: /y1-vol11/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen3/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Một hộp quà nhỏ nằm gọn trong tay, cũng có chút nặng.
 
 Còn nhịp thì cứ như thủy triều đang lên, tim tôi nhảy ra khỏi lòng ngực với cái nhịp đập này mất. UwU

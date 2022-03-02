@@ -8,10 +8,6 @@ permalink: /y1-vol7/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen4/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Ngày hôm đó, tôi tới thư viện khi giờ nghỉ trưa bắt đầu.
 
 Tôi đã tới thư viện mấy ngày liên tiếp chỉ để tìm cuốn \'Farewell, My Lovely\' của nhà văn Chandler. Gần đây nó khá nổi, nên thật khó để mượn.

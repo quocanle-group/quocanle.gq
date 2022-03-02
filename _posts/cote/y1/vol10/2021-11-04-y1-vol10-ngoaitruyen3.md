@@ -8,10 +8,6 @@ permalink: /y1-vol10/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol10/ngoaitruyen4/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Đã đến gần nửa đêm. Trước đây tôi đã vào phòng của một số nữ sinh của lớp B, Nhưng đây là lần đâu tiên tôi vào phòng 1 người bạn khác giới.
 
 Hơn nữa, việc ở riêng với một người con trai là điều tôi chưa hề trải qua bao giờ.

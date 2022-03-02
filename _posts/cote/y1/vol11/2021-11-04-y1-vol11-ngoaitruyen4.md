@@ -8,10 +8,6 @@ permalink: /y1-vol11/ngoaitruyen4/
 
 **[⏩]({{ site.baseurl }}/y1-vol11/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Phòng đa năng. Tôi cùng Ayanokouji-kun sẽ có chút riêng tư nơi đây. Các thầy cô đang thảo luận để thực hiện đợt kiểm tra cuối cùng.
 
 Những nhịp đập mạnh trong lồng ngực nhưng lại tạo cảm giác dễ chịu cho tôi. Mỗi khi nhìn thấy hình bóng người con trai ấy, cơ thể tôi cứ bừng lên như nắng hạ ban mai vậy.

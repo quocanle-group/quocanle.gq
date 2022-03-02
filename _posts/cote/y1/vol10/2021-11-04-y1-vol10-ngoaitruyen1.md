@@ -8,10 +8,6 @@ permalink: /y1-vol10/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol10/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Khoảng lặng trước kí túc xá.
 
 Tôi đang tựa vào bóng một chiếc máy bán hàng tự động, thứ lúc này mang đậm hương vị sương mù của mùa đông.

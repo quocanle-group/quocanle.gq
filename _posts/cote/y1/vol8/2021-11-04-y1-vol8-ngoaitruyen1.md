@@ -8,10 +8,6 @@ permalink: /y1-vol8/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol8/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 \"Mệt quá.\"
 
 Chia tay với nhóm Mako-chan, tôi nằm gục xuống chiếc bàn rộng rãi trong nhà ăn. Tựa như bao mệt nhọc trong ngày tan biến đi hết.

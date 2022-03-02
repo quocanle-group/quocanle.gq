@@ -8,10 +8,6 @@ permalink: /y1-vol7/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol7/ngoaitruyen1/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Đêm đó, tôi mơ về quá khứ của mình.
 
 Về con rắn mà tôi từng giết.

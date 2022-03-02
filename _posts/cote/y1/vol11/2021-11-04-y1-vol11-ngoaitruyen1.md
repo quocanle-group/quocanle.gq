@@ -8,10 +8,6 @@ permalink: /y1-vol11/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Cũng đã lâu rồi, một sáng tràn đầy sức sống thế này à.
 
 Tôi đã có một giấc mơ khá dài.

@@ -8,10 +8,6 @@ permalink: /y1-vol11/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol11/ngoaitruyen1/)**
 
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
-
 Hạng mục được chọn trong trận thứ 6 là "bắn cung", 2 vs 2. Dù Akito có gặp một chút trở ngại, lớp C vẫn dành chiến thắng. Vì đây là một hạng mục được đề cử bởi lớp C nên phần thắng đã nghiêng về bên phía chúng tôi, tỉ số bây giờ là 3 thắng và 3 thua.
 
 Sakayanagi không đưa ra bất kì chỉ thị nào cụ thể cả mà chỉ ngồi yên, lặng lẽ quan sát các hạng mục diễn ra.

@@ -8,10 +8,6 @@ permalink: /y1-vol9/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol9/ngoaitruyen3/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Tôi hẹn gặp Ayanokouji-kun ở quán cà phê để xin lời khuyên của cậu ta về một số chuyện nhất định. Trong khi tôi vẫn chưa biết mở đầu thế nào thì bầu không khí im lặng bao trùm lấy hai đứa. Tôi cần phải làm làm gì, tôi cần phải làm gì đó. Suy nghĩ đó khiến tôi quên mất đi vấn đề tôi muốn xin lời khuyên từ cậu ta. Tôi thấy thật tệ cho Ayanokouji-kun khi phải lãng phí thời gian với tôi...
 
 "Umm, cậu biết đó... umm, là chuyện về Hirata-kun."

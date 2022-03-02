@@ -8,10 +8,6 @@ permalink: /y1-vol10/ngoaitruyen4/
 
 **[⏩]({{ site.baseurl }}/y1-vol10/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Cậu ấy lướt qua tôi và bước tới trước Kouenji-kun. Có vẻ như họ đang thì thầm to nhỉ gì đó. Tôi không nghe rõ họ đang nói về chuyện gì. Tôi thấy cậu ấy rời khỏi lớp, nhìn tấm lưng ấy, có thứ gì đó thôi thúc ẩn giấu bên trong tôi, mà tôi còn không thể diễn tả bằng lời. Trước khi nhận ra, tôi đã rời khỏi ghế và đuổi theo. Ayanokouji-kun vẫn cứ bước tiếp xuống hành lang. Cậu ấy bước không quá nhanh, nhưng không hiểu sao tôi cảm thấy như không bao giờ có thể chạm tới được vậy. Hoảng loạn, tôi nắm lấy tay cậu ta. Tôi không dám tự tin tuyên bố rằng mình có thể ngăn cản cậu ấy nhưng. Cậu ấy đã quay lại. Vẫn là đôi mắt vô hồn đấy. Người này không phải kẻ mà bạn có thể đọc được cảm xúc từ cậu ta dù trắng hay đen. Dù đã một năm sát cánh, tôi gần như chưa đọc được một chút gì cả.
 
 "Ayanokouji-kun. Cậu...từ bao giờ và cậu biết được bao nhiêu?"

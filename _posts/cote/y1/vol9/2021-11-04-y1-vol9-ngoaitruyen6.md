@@ -8,10 +8,6 @@ permalink: /y1-vol9/ngoaitruyen6/
 
 **[⏩]({{ site.baseurl }}/y1-vol9/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Có một việc đã diễn ra sau khi bài thi cuối kỳ kết thúc và trước thời điểm kết quả được công bố một chút.
 
 Sau khi tiết cuối kết thúc, tôi dự tính tản bộ tới cửa hàng tiện lợi trước khi về nhà.
