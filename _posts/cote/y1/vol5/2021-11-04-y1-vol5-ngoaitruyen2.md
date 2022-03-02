@@ -8,10 +8,6 @@ permalink: /y1-vol5/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol5/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 \"Có ổn không vì bọn mình chẳng có kế hoạch gì cả?\"
 
 Được phân phó vị trí kị binh , Shinohara ở dưới tôi đang lẩm bẩm vài lời trước khi cuộc thi bắt đầu .

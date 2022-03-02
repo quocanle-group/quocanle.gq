@@ -8,10 +8,6 @@ permalink: /y1-vol2/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen4/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
-
 Cao trung Koudo Ikusei. Nơi đào tạo đặc biệt thành lập bởi chính phủ Nhật Bản, đã tụt lại so với cộng đồng quốc tế, giờ đang cố khôi phục lại thời đỉnh cao.
 
 Ngôi trường đào tạo những nhân tài trẻ tuổi, dành được mọi sự quan tâm từ trong và ngoài nước.

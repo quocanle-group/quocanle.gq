@@ -8,10 +8,6 @@ permalink: /y1-vol5/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol5/ngoaitruyen1/)**
 
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
-
 Sự kiện cuối cùng của nửa sau hội thao, phần thi chạy tiếp sức để khép lại hội thao sắp sửa bắt đầu. Sự phấn khích đã dâng lên đến cao trào đối với mọi người, ngoại trừ lớp D.
 
 \"Vậy là đến phần thi cuối rồi... cả phần thi này bọn mình cũng phải chuẩn bị dự bị sao---\"

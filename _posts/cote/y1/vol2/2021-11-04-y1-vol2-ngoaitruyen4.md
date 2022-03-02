@@ -8,10 +8,6 @@ permalink: /y1-vol2/ngoaitruyen4/
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen5/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
-
 Âm thanh của tiếng chim hót từ điện thoại của tôi chậm rãi lọt vào tai tôi.
 
 Đã đến lúc thức dậy rồi. Tôi nhìn đồng hồ treo trên tường trong khi dậy khỏi giường. Tôi tỉnh dậy như thường lệ. Thói quen mà cơ thể rèn rũa thì không thể nào quên được. Thói quen này không hề thay đổi kể từ khi tôi bước vào ngôi trường này.

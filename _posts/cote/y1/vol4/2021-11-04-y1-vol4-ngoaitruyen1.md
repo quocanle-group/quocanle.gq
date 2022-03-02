@@ -8,10 +8,6 @@ permalink: /y1-vol4/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol4/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Đây là một sự kiện xảy ra không lâu sau khi bài kiểm tra đặc biệt diễn ra.
 
 Tôi đến phòng kiểm tra nhóm 'Mão' sớm.

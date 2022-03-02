@@ -8,10 +8,6 @@ permalink: /y1-vol3/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol3/ngoaitruyen3/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Sau khi bắt đầu kỳ thi đặc biệt, cuộc sống học đường tôi hình dung trong đầu đã thay đổi đi rất nhiều.
 
 Có phải do sống ở hoang đảo? Hay do tôi chưa phải trải nghiệm một cuộc sống tàn khốc cho đến bây giờ?

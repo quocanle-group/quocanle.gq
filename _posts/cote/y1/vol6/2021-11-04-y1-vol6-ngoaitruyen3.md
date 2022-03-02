@@ -8,10 +8,6 @@ permalink: /y1-vol6/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol6/loibat/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Bao nhiêu lần mình mơ thấy nó rồi nhỉ. Cái sân khấu diễn ra tại lễ hội thao ấy. Không rõ đã là lần thứ mấy rồi nữa.
 
 Phần lớn thời gian nhàm chán kéo dài vô tận đã hoàn toàn biến mất khỏi những giấc mơ của tôi. Chỉ vì 1 hành động thôi - hành động duy nhất ở trò chạy tiếp sức ,cũng là sự kiện cuối cùng của lễ hội thao, từ từ chậm rãi nhưng lặp lại vô tận trong mỗi giấc mơ của tôi.

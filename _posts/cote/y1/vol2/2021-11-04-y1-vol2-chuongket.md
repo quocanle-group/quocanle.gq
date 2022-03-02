@@ -8,10 +8,6 @@ permalink: /y1-vol2/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen1/)**
 
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy)
-
 Mặt trời mùa hạ đang lên cao trên bầu trời nóng rực kia. Khi tôi từng bước đi qua hàng cây trên đường đến trường, cơ thể tôi như gào thét trong sự đau đớn.
 
 Mồ hôi lăn dài trên mặt tôi. Một học sinh vui vẻ kia chạy theo và vượt qua mặt tôi. Cô ấy nhìn thật sự tràn trề sức sống. Không thì, có thể cô ấy cũng bị hâm ấy nhỉ? Tôi còn không thèm chạy nếu ngày tận thế đang đuổi lấy tôi.

@@ -8,10 +8,6 @@ permalink: /y1-vol1/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol1/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
-
 \"Này, đôi lúc cậu có muốn mặc kệ trái đất này tự vận hành không, kiểu buông xuôi ấy?\"
 
 \"Sao đột nhiên cậu hỏi thế? Tiếc là tôi chưa bao giờ bi quan về cuộc sống của mình. \"

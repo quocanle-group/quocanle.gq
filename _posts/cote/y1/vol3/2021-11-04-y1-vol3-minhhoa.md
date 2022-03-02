@@ -6,10 +6,6 @@ permalink: /y1-vol3/minhhoa/
 
 **[⏩]({{ site.baseurl }}/y1-vol3/modau/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 ![u22719-f7d89c9c-db52-4683-bff6-d438f92a8ac4.jpg]({{ site.baseurl }}/images/cote/y1-vol3/image1.jpeg)
 
 ![u22719-29a56289-7016-4eeb-88ad-e0bbeb852b0e.jpg]({{ site.baseurl }}/images/cote/y1-vol3/image2.jpg)

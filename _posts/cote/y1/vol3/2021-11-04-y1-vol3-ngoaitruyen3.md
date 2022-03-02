@@ -8,10 +8,6 @@ permalink: /y1-vol3/ngoaitruyen3/
 
 **[⏩]({{ site.baseurl }}/y1-vol3/loibat/)**
 
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
-
 Mùa hè ở hòn đảo. Các học sinh lớp B đều làm tròn nhiệm vụ của mình.
 
 Đó là ngày thứ hai của kỳ thi đặc biệt. Tôi đứng lên cảm thấy hài lòng với cái võng mình làm.

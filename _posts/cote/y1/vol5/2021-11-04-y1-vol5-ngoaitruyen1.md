@@ -8,10 +8,6 @@ permalink: /y1-vol5/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol5/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Lễ hội thao không còn kéo dài nữa . Để xốc lại tinh thần mọi người , tôi đứng trước lớp thét lớn
 
 \"Mọi người , cùng cố hết sức nào , cố thêm chút nữa thôi!\"

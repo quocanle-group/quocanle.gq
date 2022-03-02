@@ -8,10 +8,6 @@ permalink: /y1-vol6/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol6/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)**👈**
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy) 👈
-
 Tôi không ghét đến trường chút nào đâu.
 
 Từ lúc tiểu học đến trung học cơ sở cái khái niệm này vốn đã hình thành trong đầu tôi như thế rồi.

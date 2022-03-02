@@ -8,10 +8,6 @@ permalink: /y1-vol6/chuongket/
 
 **[⏩]({{ site.baseurl }}/y1-vol6/ngoaitruyen1/)**
 
-**Page : [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)👈**
-
-[ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý](https://bit.ly/danhgiagopy) 👈
-
 Thời gian vẫn cứ thấm thoát trôi đi, không chút chậm lại, dù vài người đã chán ngán cái cảnh học ngày qua ngày như vậy.
 
 Bước vào tháng 12, khi mà mùa Đông về, bài kiểm tra cuối kì chỉ còn cách 3 ngày nữ. Hôm nay, ngày chủ nhật, và bài thi sẽ chào đón 1 tuần mới vào thứ 2.

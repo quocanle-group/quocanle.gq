@@ -8,10 +8,6 @@ permalink: /y1-vol2/ngoaitruyen2/
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen3/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
-
 Trước 9 giờ tối. Tôi đứng dậy khỏi chiếc máy tính sau khi kiểm tra thời tiết ngày mai.
 
 Một chuyện hiếm thấy đã xảy ra, Ike gọi cho tôi -- người mà cả tháng có khi chả có cuộc gọi nào.

@@ -8,10 +8,6 @@ permalink: /y1-vol2/ngoaitruyen1/
 
 **[⏩]({{ site.baseurl }}/y1-vol2/ngoaitruyen2/)**
 
-**Page :** [Classroom of the Elite LightNovel Việt Nam](http://facebook.com/Classroom.of.the.Elite.VN)
-
-[**ĐÁNH GIÁ CHẤT LƯỢNG & GÓP Ý**](https://bit.ly/danhgiagopy)
-
 Trường Cao trung Giáo dục Nâng cao. Một cơ sở đào tạo chưa từng thấy từ trước tới giờ, nay đã được đặc biệt thành lập tại Nhật Bản, một đất nước đang tụt lại so với cộng đồng quốc tế, nhằm khôi phục lại vị thế hoàng kim của nó.
 
 Được thành lập để bồi dưỡng những nhân tài trẻ tuổi, ngôi trường đã nhận được nhiều sự quan tâm cả trong và ngoài nước.
