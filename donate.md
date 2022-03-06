@@ -41,7 +41,3 @@ LE QUOC AN
 ![Viettel Pay donate]({{ site.baseurl }}/images/donate/viettelpay.jpg)
 
 -----------------------------------------------------------------
-
-### Contact me
-
-[quocanle@quocanle.ml](mailto:quocanle@quocanle.ml)
