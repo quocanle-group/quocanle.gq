@@ -1,88 +1,93 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<link href="https://fonts.googleapis.com/css?family=Merriweather:400,900,900i" rel="stylesheet">
-
 <a id="button"></a>
 <style>
   #button {
-  display: inline-block;
-  background-color: #ff000063;
-  width: 3rem;
-  height: 3rem;
-  text-align: center;
-  border-radius: 4px;
-  position: fixed;
-  bottom: 32px;
-  right: 90px;
-  transition: background-color .3s, 
-    opacity .5s, visibility .5s;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 1000;
-}
-#button::after {
-  content: "\f077";
-  font-family: FontAwesome;
-  font-weight: normal;
-  font-style: normal;
-  font-size: 2em;
-  line-height: 50px;
-  color: #fff;
-}
-#button:hover {
-  cursor: pointer;
-  background-color: #333;
-}
-#button:active {
-  background-color: #555;
-}
-#button.show {
-  opacity: 1;
-  visibility: visible;
-}
+    display: inline-block;
+    background-color: #e5ff00;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 32px;
+    right: 90px;
+    transition: background-color .3s,
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+  }
 
-/* Styles for the content section */
+  #button::after {
+    content: "\f077";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 50px;
+    color: #fff;
+  }
 
-.content {
-  width: 77%;
-  margin: 50px auto;
-  font-family: 'Merriweather', serif;
-  font-size: 17px;
-  color: #6c767a;
-  line-height: 1.9;
-}
-@media (min-width: 500px) {
+  #button:hover {
+    cursor: pointer;
+    background-color: #333;
+  }
+
+  #button:active {
+    background-color: #555;
+  }
+
+  #button.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* Styles for the content section */
+
   .content {
-    width: 43%;
+    width: 77%;
+    margin: 50px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #6c767a;
+    line-height: 1.9;
   }
-  #button {
-    margin: 30px;
+
+  @media (min-width: 500px) {
+    .content {
+      width: 43%;
+    }
+
+    #button {
+      margin: 30px;
+    }
   }
-}
-.content h1 {
-  margin-bottom: -10px;
-  color: #03a9f4;
-  line-height: 1.5;
-}
-.content h3 {
-  font-style: italic;
-  color: #96a2a7;
-}
+
+  .content h1 {
+    margin-bottom: -10px;
+    color: #03a9f4;
+    line-height: 1.5;
+  }
+
+  .content h3 {
+    font-style: italic;
+    color: #96a2a7;
+  }
 </style>
 <script>
   var btn = $('#button');
 
-$(window).scroll(function() {
-  if ($(window).scrollTop() > 300) {
-    btn.addClass('show');
-  } else {
-    btn.removeClass('show');
-  }
-});
+  $(window).scroll(function () {
+    if ($(window).scrollTop() > 300) {
+      btn.addClass('show');
+    } else {
+      btn.removeClass('show');
+    }
+  });
 
-btn.on('click', function(e) {
-  e.preventDefault();
-  $('html, body').animate({scrollTop:0}, '300');
-});
+  btn.on('click', function (e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: 0 }, '300');
+  });
 
 
 </script>
