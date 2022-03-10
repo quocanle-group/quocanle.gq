@@ -16,7 +16,7 @@ Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể ti�
 
 **Viet Capital Bank**
 
-stk: 8017041010285
+STK: 8017041010285
 
 LE QUOC AN
 
@@ -26,7 +26,7 @@ LE QUOC AN
 
 **Momo**
 
-sđt: 0904257035
+SĐT: 0904257035
 
 ![Momo donate]({{ site.baseurl }}/images/donate/momo.jpg)
 
@@ -34,7 +34,7 @@ sđt: 0904257035
 
 **Viettel Pay**
 
-stk: 9704229227681272
+STK: 9704229227681272
 
 LE QUOC AN
 
