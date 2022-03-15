@@ -31,13 +31,3 @@ SĐT: 0904257035
 ![Momo donate]({{ site.baseurl }}/images/donate/momo.jpg)
 
 -----------------------------------------------------------------
-
-**Viettel Pay**
-
-STK: 9704229227681272
-
-LE QUOC AN
-
-![Viettel Pay donate]({{ site.baseurl }}/images/donate/viettelpay.jpg)
-
------------------------------------------------------------------
