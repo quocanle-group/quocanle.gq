@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: http://cote.ga/sitemap.xml
-Sitemap: http://www.cote.ga/sitemap.xml
