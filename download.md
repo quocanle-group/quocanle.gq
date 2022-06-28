@@ -1,44 +1,10 @@
 ---
 layout: page
-title: Donate & Download
-permalink: /donate/
+title: Download
+permalink: /download/
 ---
 
-**Link download ở cuối trang nhé 😉**
-
------------------------------------------------------------------
-
-Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này nhé.
-
------------------------------------------------------------------
-
-**Paypal**
-
-[https://paypal.me/quocanle](https://paypal.me/quocanle)
-
------------------------------------------------------------------
-
-**Viet Capital Bank**
-
-STK: 8017041010285
-
-LE QUOC AN
-
-![Viet Capital Bank donate]({{ site.baseurl }}/images/donate/vietcapital.png)
-
------------------------------------------------------------------
-
-**Momo**
-
-SĐT: 0904257035
-
-![Momo donate]({{ site.baseurl }}/images/donate/momo.jpg)
-
------------------------------------------------------------------
-
-****DOWNLOAD****
-
-**Năm 1**
+**Year 1**
 
 [Vol 1](https://cote.eu.org/cote.ga/y1/vol1.docx)
 
@@ -70,7 +36,7 @@ SĐT: 0904257035
 
 [Vol 11.75](https://cote.eu.org/cote.ga/y1/vol11.75.docx)
 
-**Năm 2**
+**Year 2**
 
 [Vol 1](https://cote.eu.org/cote.ga/y2/vol1.docx)
 
