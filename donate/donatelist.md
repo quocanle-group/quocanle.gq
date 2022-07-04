@@ -37,3 +37,7 @@ permalink: /donate/list/
 *27/05/2022*
 
 - Hà Nam Anh 10.000 VND
+
+*04/07/2022*
+
+- Nguyễn Quang Nhựt 300.000 VND
