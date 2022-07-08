@@ -6,6 +6,10 @@ permalink: /donate/list/
 
 **Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
 
+*08/07/2022*
+
+- Ngô Trung Hiếu 10.000 VND
+
 *07/07/2022*
 
 - Trần Ngọc Huy Hoàng 100.000 VND
