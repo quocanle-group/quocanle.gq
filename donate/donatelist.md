@@ -6,6 +6,14 @@ permalink: /donate/list/
 
 **Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
 
+*15/07/2022*
+
+- Đinh Quang Anh 50.000 VND
+
+*11/07/2022*
+
+- Văn Việt Hoàng 50.000 VND
+
 *08/07/2022*
 
 - Ngô Trung Hiếu 10.000 VND
