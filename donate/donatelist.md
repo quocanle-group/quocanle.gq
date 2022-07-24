@@ -5,15 +5,16 @@ permalink: /donate/list/
 ---
 
 **Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
-*15/07/2022*
+
+*24/07/2022*
 
 - Quách Võ Phi Hùng 16.000 VND
 
-*15/07/2022*
+*23/07/2022*
 
 - Đồng Đức Việt Hoàng 30.000 VND
 
-*15/07/2022*
+*21/07/2022*
 
 - Nguyễn Hồng Anh 50.000 VND
 
