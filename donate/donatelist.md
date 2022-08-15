@@ -6,6 +6,35 @@ permalink: /donate/list/
 
 **Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
 
+*15/08/2022*
+
+- Nguyễn Văn Thái 10 USD
+
+*14/08/2022*
+
+- Nguyễn Thị Hồng Nga 10.000 VND
+
+*12/08/2022*
+
+- Nguyễn Thị Hồng Nga 10.000 VND
+
+*11/08/2022*
+
+- Hà Hoàng Anh 10.000 VND
+
+*10/08/2022*
+
+- Nguyễn Thị Hồng Nga 5.000 VND
+
+*08/08/2022*
+
+- Ẩn Danh 100.000 VND
+
+*29/07/2022*
+
+- Lìu Khải Trí 30.000 VND
+- Nguyễn Thị Hồng Nga 10.000 VND
+
 *24/07/2022*
 
 - Quách Võ Phi Hùng 16.000 VND
