@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Y1 Vol 2
+title: Y1 Vol 2 Illustration
 permalink: /y1-vol2-en/illustration
 ---
 
