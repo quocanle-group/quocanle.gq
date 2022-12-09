@@ -4,6 +4,8 @@ title: Y2 Vol 7 Chương Kết
 permalink: /y2-vol7/chuongket/
 ---
 
+**[⏪]({{ site.baseurl }}/y2-vol7/chuong7/)**
+
 ## Chương kết: Kẻ đứng sau tấm màn
 
 **Mở đầu:**
@@ -789,3 +791,5 @@ Tôi quên mất giấc mơ và kéo ghế rồi đứng dậy.
 \"Hình như mình đã để cửa sổ mở \... Chắc chỉ là mình tưởng tượng thôi?\"
 
 Mặt trời sẽ sớm lặn. Phải đi ngủ sớm hơn một chút mới được, tôi nghĩ vậy và rời khỏi lớp học.
+
+**[⏪]({{ site.baseurl }}/y2-vol7/chuong7/)**
