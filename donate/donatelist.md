@@ -6,6 +6,26 @@ permalink: /donate/list/
 
 **Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
 
+*03/10/2022*
+
+- Ho Ngoc Bao 10.000 VND
+
+*02/09/2022*
+
+- Trương Thanh Chương 50.000 VND
+
+*29/08/2022*
+
+- Ẩn Danh 20.000 VND
+
+*23/08/2022*
+
+- Nguyễn Hữu Phát 20.000 VND
+
+*19/08/2022*
+
+- Ẩn Danh 50.000 VND
+
 *15/08/2022*
 
 - Nguyễn Văn Thái 10 USD
