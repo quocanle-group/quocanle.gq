@@ -4,6 +4,10 @@ title: Y2 Vol 8 Chương kết
 permalink: /y2-vol8/chuongket/
 ---
 
+**[⏪]({{ site.baseurl }}/y2-vol8/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y2-vol8/truyenngan/)**
+
 # Chương kết: Ánh sáng cuối đường hầm
 
 Ánh đèn leo lắt trong đêm tối.
@@ -433,3 +437,7 @@ Hiện giờ, Ichinose đã không còn chút sức lực nào để đi xuống
 Trong khi đang ngắm nhìn từ cảnh đêm tuyết từ phía xa xăm này.
 
 Ngày hôm đó chúng tôi đã cảm nhận được hơi ấm của nhau, vai kề vai dưới bầu trời mùa đông hiu hắt.
+
+**[⏪]({{ site.baseurl }}/y2-vol8/chuong5/)**
+
+**[⏩]({{ site.baseurl }}/y2-vol8/truyenngan/)**

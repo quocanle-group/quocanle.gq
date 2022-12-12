@@ -4,6 +4,8 @@ title: Y2 Vol 8 Truyện ngắn
 permalink: /y2-vol8/truyenngan/
 ---
 
+**[⏪]({{ site.baseurl }}/y2-vol8/chuongket/)**
+
 ## Kushida Kikyo - Mình điên con mẹ nó rồi
 
 Ryuuen toan muốn đe dọa tôi, nhưng nhanh chóng bị Ayanokouji ngăn lại. Sau khi mọi thứ đã đâu vào đó\...
@@ -323,3 +325,5 @@ Cô ta hành động như thể bị Ibuki-san chiếm hữu. Tôi hơi cảm th
 Tôi không định lấy chai nước khoáng, và Kushida-san cũng không nhận. Kết quả là không ai trong chúng tôi uống nước mà chỉ nhìn nhau.
 
 Cuối cùng, cả hai chúng tôi rời khỏi bồn tắm lớn và tôi đến một nơi vắng vẻ để thưởng thức những món đồ uống tuyệt vời khác.
+
+**[⏪]({{ site.baseurl }}/y2-vol8/chuongket/)**
