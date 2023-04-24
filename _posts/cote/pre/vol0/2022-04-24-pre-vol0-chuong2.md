@@ -6,7 +6,7 @@ permalink: /pre-vol0/chuong2/
 
 **[⏪]({{ site.baseurl }}/pre-vol0/chuong1/)**
 
-**[⏩]({{ site.baseurl }}/pre-vol0/chuong 3/)**
+**[⏩]({{ site.baseurl }}/pre-vol0/chuong3/)**
 
 1\.
 
@@ -1869,4 +1869,4 @@ Có thể có những thay đổi trong kế hoạch sau này, nhưng đây là 
 
 **[⏪]({{ site.baseurl }}/pre-vol0/chuong1/)**
 
-**[⏩]({{ site.baseurl }}/pre-vol0/chuong 3/)**
+**[⏩]({{ site.baseurl }}/pre-vol0/chuong3/)**
