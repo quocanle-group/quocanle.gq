@@ -4,7 +4,7 @@ title: Vol 0 Mở Đầu
 permalink: /pre-vol0/modau/
 ---
 
-**[⏩]({{ site.baseurl }}/y2-vol8/chuong1/)**
+**[⏩]({{ site.baseurl }}/pre-vol0/chuong1/)**
 
 ![A picture containing text Description automatically generated]({{ site.baseurl }}/images/cote/pre-vol0/image1.jpeg)
 ![Text Description automatically generated with low confidence]({{ site.baseurl }}/images/cote/pre-vol0/image2.jpeg)
@@ -198,4 +198,4 @@ Bước ngoặt mới đã xảy ra vào năm thứ 4 ta làm việc dưới tr�
 Lúc ta biết đến sự tồn tại của kế hoạch Whiteroom.
 
 
-**[⏩]({{ site.baseurl }}/y2-vol8/chuong1/)**
+**[⏩]({{ site.baseurl }}/pre-vol0/chuong1/)**
