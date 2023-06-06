@@ -4,7 +4,7 @@ title: Donate List
 permalink: /donate/list/
 ---
 
-**Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE.GA**
+**Mình xin chân thành cảm ơn tất cả bạn đã donate cho COTE**
 
 *03/10/2022*
 

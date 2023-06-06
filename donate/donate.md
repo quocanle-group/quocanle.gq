@@ -6,7 +6,7 @@ permalink: /donate/
 
 Nếu có thể thì các bạn hãy ủng hộ mình để mình có thể tiếp tục duy trì trang web này nhé.
 
-[Danh sách những bạn đã donate cho COTE.GA](https://cote.ga/donate/list)
+[Danh sách những bạn đã donate cho COTE]({{ site.baseurl }}/donate/list)
 
 -----------------------------------------------------------------
 
