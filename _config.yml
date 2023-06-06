@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: COTE.GA
+name: COTE
 
 # Short bio or description (displayed in the header)
 description: Tổng hợp Light Novel Classroom of the Elite
@@ -39,7 +39,7 @@ disqus:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://cote.ga
+url: http://cote.ml
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
