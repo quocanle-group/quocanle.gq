@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Assignment 2 | How do you define success?
-permalink: /pdp-assignment2
+permalink: /pdp/assignment2
 ---
 
 **[⏪]({{ site.baseurl }}/pdp/assigment1)**
