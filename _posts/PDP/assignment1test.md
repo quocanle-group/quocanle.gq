@@ -1,7 +1,7 @@
 ﻿---
-layout: post
+layout: page
 title: Assignment 1 | Who am I?
-permalink: /test/assignment1
+permalink: /test/
 ---
 
 **[⏩]({{ site.baseurl }}/pdp/assigment2)**
