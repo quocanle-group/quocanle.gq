@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Assignment 3 | Motivation, Time Management and Goal Setting
-permalink: /pdp/assignment3
+permalink: /pdp-assignment3
 ---
 
 **[⏪]({{ site.baseurl }}/pdp/assigment2)**
