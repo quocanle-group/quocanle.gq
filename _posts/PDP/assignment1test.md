@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: post
 title: Assignment 1 | Who am I?
 permalink: /test/assignment1
 ---
