@@ -4,9 +4,9 @@ title: Assignment 3 | Motivation, Time Management and Goal Setting
 permalink: /pdp/assignment3
 ---
 
-**[⏪]({{ site.baseurl }}/pdp/assigment2)**
+**[⏪]({{ site.baseurl }}/pdp/assignment2)**
 
-**[⏩]({{ site.baseurl }}/pdp/assigment4)**
+**[⏩]({{ site.baseurl }}/pdp/assignment4)**
 
 1.  **Paint the picture**
 
@@ -127,6 +127,6 @@ If you do not answer YES to any of the questions below, please go back to revise
 |     |                                          |                                                   |                     |                   |                          |                 |
 +-----+------------------------------------------+---------------------------------------------------+---------------------+-------------------+--------------------------+-----------------+
 
-**[⏪]({{ site.baseurl }}/pdp/assigment2)**
+**[⏪]({{ site.baseurl }}/pdp/assignment2)**
 
-**[⏩]({{ site.baseurl }}/pdp/assigment4)**
+**[⏩]({{ site.baseurl }}/pdp/assignment4)**
