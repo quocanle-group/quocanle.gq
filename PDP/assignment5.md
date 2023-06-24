@@ -18,7 +18,7 @@ These core values are reflected in my actions in life. For example, I always try
 
 **Visual representation**
 
-![]({{ site.url }}/images/pdp/assignment4/image1.jpeg)
+![]({{ site.url }}/images/pdp/assignment5/image1.jpeg)
 
 The tree represents the fact that my core values are strong and rooted. The three branches represent the three core values: Integrity, Compassion, and Innovation.
 
