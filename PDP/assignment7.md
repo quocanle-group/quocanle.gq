@@ -28,19 +28,7 @@ What leadership style matches your core values? Exemplary leadership? Emerging l
 
 -   What do you like to do? What makes you happy in your studies and in your personal life?
 
-+-------------------------------------------------------------------+---------------------------------------------+
-| **Strengths**                                                     | **Ideas for building upon these strengths** |
-+-------------------------------------------------------------------+---------------------------------------------+
-| -   Coding                                                        | Improve my self to be a good person         |
-|                                                                   |                                             |
-| -   Responsibility                                                |                                             |
-|                                                                   |                                             |
-| -   My first website                                              |                                             |
-|                                                                   |                                             |
-| -   Communication Skill -- Yes, I am -- Yes, I am -- Yes, they do |                                             |
-|                                                                   |                                             |
-| -   Integrity                                                     |                                             |
-+-------------------------------------------------------------------+---------------------------------------------+
+![]({{ site.url }}/images/pdp/assignment7/image1.png)
 
 **Weaknesses**:
 
@@ -52,17 +40,7 @@ What leadership style matches your core values? Exemplary leadership? Emerging l
 
 -   What are any bad habits that you have? For example, you like to postpone things, you are late, you come across as unreliable, ...
 
-+----------------------------------------------------------------------+--------------------------------------------------------+
-| **Weaknesses**                                                       | **Ideas for minimizing or repairing these weaknesses** |
-+----------------------------------------------------------------------+--------------------------------------------------------+
-| -   Time management skill                                            | Try to learn new things to improve my self             |
-|                                                                      |                                                        |
-| -   They told me should improve writing skill. I am absolutely agree |                                                        |
-|                                                                      |                                                        |
-| -   Study a lot                                                      |                                                        |
-|                                                                      |                                                        |
-| -   Lazy                                                             |                                                        |
-+----------------------------------------------------------------------+--------------------------------------------------------+
+![]({{ site.url }}/images/pdp/assignment7/image2.png)
 
 **Opportunities:**
 
@@ -74,17 +52,7 @@ What leadership style matches your core values? Exemplary leadership? Emerging l
 
 -   What additional education and training is available to you, externally or via VNUK and its student associations? How would it contribute to your objective and skills development?
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| **Opportunities**                                                                                                                                                                 | **Ideas for investigating or taking advantage of these opportunities** |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------+
-| -   Leveraging relationships and personal networks, and identifying additional skills that will be required for successful leadership in the future                               | Be a good leader and get opportunities to study abroad                 |
-|                                                                                                                                                                                   |                                                                        |
-| -   Decisiveness, critical thinking, motivation, integrity, and collaboration                                                                                                     |                                                                        |
-|                                                                                                                                                                                   |                                                                        |
-| -   More Support, advice, and opportunities                                                                                                                                       |                                                                        |
-|                                                                                                                                                                                   |                                                                        |
-| -   VNUK Future Leader Programme. This program offers students the opportunity to develop their leadership skills through a series of workshops, lectures, and networking events. |                                                                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------+
+![]({{ site.url }}/images/pdp/assignment7/image3.png)
 
 **Threats:**
 
@@ -98,19 +66,7 @@ What leadership style matches your core values? Exemplary leadership? Emerging l
 
 -   What additional skills do other students have that you do not have?
 
-+-------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| **Threats**                                                                                                       | **Ideas for minimizing or overcoming these threats** |
-+-------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| May not be able to handle the challenges of leadership                                                            | Be prepared for the challenges                       |
-|                                                                                                                   |                                                      |
-| Academic challenges and Time management challenges                                                                |                                                      |
-|                                                                                                                   |                                                      |
-| Students who are also ambitious and talented                                                                      |                                                      |
-|                                                                                                                   |                                                      |
-| Critical thinking and problem-solving skills. Leaders will need to be able to identify and solve complex problems |                                                      |
-|                                                                                                                   |                                                      |
-| More experience and better connections                                                                            |                                                      |
-+-------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
+![]({{ site.url }}/images/pdp/assignment7/image4.png)
 
 **[⏪]({{ site.baseurl }}/pdp/assignment6)**
 
