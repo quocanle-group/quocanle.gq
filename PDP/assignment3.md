@@ -83,11 +83,7 @@ permalink: /pdp/assignment3
 
 **What is your SMART goal?**
 
-  -----------------------------------------------------------------------
-  My SMART goal is: Get an A + in Python course.
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+![]({{ site.url }}/images/pdp/assignment3/image2.png)
 
 **Check if your goal is SMART.**
 
